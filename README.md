@@ -1,4 +1,4 @@
-# EthereumObituaries
+# Ethereum Obituaries
 A curated list of Ethereum Obituaries.
 
 ### Contributing
