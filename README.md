@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **23** times so far.
+## Ethereum has died **24** times so far.
 
 ### Timeline
  - [2015](#2015)
@@ -24,6 +24,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
  - Jun 18 - [R.I.P Ethereum - The Pre-Mined ScamCoin is dead](https://bitcointalk.org/index.php?topic=1516545.0) - *Bitcointalk* - **$14.98**
  - Jun 20 - [Ethereum is Doomed](http://nakamotoinstitute.org/mempool/ethereum-is-doomed/#selection-323.271-327.310) - *Nakamoto Institute* - **$14.13**
  - Jun 21 - [Bitcoin rival Ethereum fights for its survival after $50 million heist](http://arstechnica.com/security/2016/06/bitcoin-rival-ethereum-fights-for-its-survival-after-50-million-heist/) - *Ars Technica* - **$11.82**
+ - Jul 17 - [Ether/DAO Hack: Is Ethereum Dead?](http://cryptocrooks.com/dao-ether-hack-ethereum-dead/#.W4Qnoej-g2w) - *CryptoCrooks* - **$11.35**
  - Sep 04 - [The Bizarre Fallout of Ethereum’s Epic Fail](http://fortune.com/2016/09/04/ethereum-fall-out/) - *Fortune* - **$11.76**
  - Sep 07 - [How Bitcoin Succeeded Where Ethereum Failed](http://coinjournal.net/bitcoin-succeeded-ethereum-failed/) - *CoinJournal* - **$11.58**
  - Oct 05 - [Why I’m short Ethereum (and long Bitcoin)](https://medium.com/@tuurdemeester/why-im-short-ethereum-and-long-bitcoin-aee5b1c198fd#.kwfrait73) - *Medium* - **$13.22**
