@@ -14,6 +14,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 ## The List
 ### [2015](#2015)
+ - Dec 25 - [Maybe it is too late to save Ethereum](https://digiconomist.net/maybe-late-save-ethereum-wall-street-technologist-0-88/) - *Wall Street Technologist* - **$0,88**
 ### [2016](#2016)
 ### [2017](#2017)
 ### [2018](#2018)
