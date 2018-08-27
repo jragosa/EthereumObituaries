@@ -6,6 +6,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
+## Ethereum has died **15** times so far.
+
 ### Timeline
  - [2015](#2015)
  - [2016](#2016)
