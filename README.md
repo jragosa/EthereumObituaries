@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **15** times so far.
+## Ethereum has died **16** times so far.
 
 ### Timeline
  - [2015](#2015)
@@ -26,6 +26,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
  - Sep 04 - [The Bizarre Fallout of Ethereum’s Epic Fail](http://fortune.com/2016/09/04/ethereum-fall-out/) - *Fortune* - **$11.76**
  - Sep 07 - [How Bitcoin Succeeded Where Ethereum Failed](http://coinjournal.net/bitcoin-succeeded-ethereum-failed/) - *CoinJournal* - **$11.58**
  - Oct 05 - [Why I’m short Ethereum (and long Bitcoin)](https://medium.com/@tuurdemeester/why-im-short-ethereum-and-long-bitcoin-aee5b1c198fd#.kwfrait73) - *Medium* - **$13.22**
+ - Dec 04 - [ETH is dead (from an investor perspective)](https://imgur.com/a/HFMBk#I1ZtMxs) - *Barry Silbert (ETC Slack)* - **$7.60**
  - Dec 06 - [Ethereum In Free Fall As Floor Beneath It Drops](https://cointelegraph.com/news/ethereum-in-free-fall-as-floor-beneath-it-drops) - *Cointelegraph* - **$7.58**
  
 ### 2017
