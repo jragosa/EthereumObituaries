@@ -1,12 +1,12 @@
 # EthereumObituaries
-A curated list of all Ethereum Obituaries.
+A curated list of Ethereum Obituaries.
 
 ### Contributing
 Please take a quick look at the [contribution guidelines](https://github.com/jragosa/EthereumObituaries/blob/master/Contribution.md) first. Thanks to all contributors! 
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **21** times so far.
+## Ethereum has died **22** times so far.
 
 ### Timeline
  - [2015](#2015)
@@ -42,3 +42,4 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Dec 11 - [Reasons Why Ethereum Could Be Doomed](https://globalcoinreport.com/reasons-why-ethereum-could-be-doomed/) - *GlobalCoinReport* - **$588.32**
 
 ### 2018
+- Jun 09 - [Everything they don't want you to know about EOS, the 'Ethereum Killer'](https://hackernoon.com/everything-they-dont-want-you-to-know-about-eos-the-ethereum-killer-9939c43aa2df) - *Hackernoon* - **$605.90**
