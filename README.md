@@ -6,15 +6,18 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **24** times so far.
+## Ethereum has died **25** times so far.
 
 ### Timeline
+ - [2014](#2014)
  - [2015](#2015)
  - [2016](#2016)
  - [2017](#2017)
  - [2018](#2018)
 
 ## The List
+### 2014
+- Oct 15 - [Why Ethereum is dead in the water.](https://bitcointalk.org/index.php?topic=824220.10) - *Bitcointalk* - **Not Launched**
 ### 2015
  - Dec 25 - [Maybe it is too late to save Ethereum](http://www.wallstreettechnologist.com/2015/12/25/maybe-it-is-too-late-to-save-ethereum/) - *Wall Street Technologist* - **$0.88**
 ### 2016
