@@ -27,4 +27,10 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
  - Dec 6 - [Ethereum In Free Fall As Floor Beneath It Drops]() - *Cointelegraph* - **$7.58**
  
 ### 2017
+- Nov 16 - [The Neverending Ethereum Disaster](https://robertmcgrath.wordpress.com/2017/11/16/the-neverending-ethereum-disaster/) - *Robert McGrath's blog* - **$328.52**
+- Nov 20 - [Ethereum is Doomed – Why the Ether Cryptocurrency will Fail in 2018](https://oracletimes.com/ethereum-is-doomed-why-the-ether-cryptocurrency-will-fail-in-2018/) - *OracleTimes* - **$362.95**
+- Nov 26 - [Parity Hack Shows the Ethereum Ecosystem Is Flawed in Big Ways](https://nulltx.com/parity-hack-shows-the-ethereum-ecosystem-is-flawed-in-big-ways/) - *NullTX* - **$462.49**
+- Dec 4 - [CryptoKitties Is Totally Wrecking the Ethereum Network](https://www.bitsonline.com/cryptokitties-wrecking-ethereum/) - *Bitsonline* - **$462.44**
+- Dec 11 - [Reasons Why Ethereum Could Be Doomed]() - *GlobalCoinReport* - **$588.32**
+
 ### 2018
