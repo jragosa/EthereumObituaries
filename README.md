@@ -31,6 +31,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
  
 ### 2017
 - Jun 01 - [Why Will Ethereum Fail?](https://steemit.com/ethereum/@joseph/why-will-ethereum-fail#@thecryptofiend/re-joseph-why-will-ethereum-fail-20170601t212114290z) - *Steem* - **$235.16**
+- Jun 27 - [Top 5 Reasons Why Ethereum Will Fail — Maybe](https://bitsonline.com/top-5-reasons-ethereum-fail/) - *Bitsonline* - **$271.00**
 - Sep 28 - [Is Ethereum Doomed To Fail?](http://www.digitalmarketingcasestudies.com/2017/09/28/ethereum-doomed-fail/) - *Digital Marketing Case Studies* - **$304.77**
 - Nov 10 - [ETH (ETHEREUM) IS DEAD](https://steemit.com/bitcoin/@juniusmaltby/eth-ethereum-is-dead) - *Steem* - **$318.19**
 - Nov 16 - [The Neverending Ethereum Disaster](https://robertmcgrath.wordpress.com/2017/11/16/the-neverending-ethereum-disaster/) - *Robert McGrath's blog* - **$328.52**
