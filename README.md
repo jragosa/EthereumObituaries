@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **26** times so far.
+## Ethereum has died **27** times so far.
 
 ### Timeline
  - [2014](#2014)
@@ -49,3 +49,4 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Feb 12 - [Ethereum: Is it dying a slow death?](https://medium.com/@cryptocolegio/ethereum-is-it-dying-a-slow-death-c9a5a2c56cc3) - *Medium* - **$852.51**
 - Mar 18 - [Ethereum price drop today: Is ethereum dead? Will the crypto go back up?](https://www.express.co.uk/finance/city/932168/Ethereum-price-drop-today-is-ethereum-dead-will-cryptocurrency-go-back-up) - *Express UK* - **$520.30**
 - Jun 09 - [Everything they don't want you to know about EOS, the 'Ethereum Killer'](https://hackernoon.com/everything-they-dont-want-you-to-know-about-eos-the-ethereum-killer-9939c43aa2df) - *Hackernoon* - **$605.90**
+- Aug 17 - [Last winner game jams Ethereum network – Is Ethereum (ETH) dominance at stake?](https://cryptoglobalist.com/2018/08/17/last-winner-game-jams-ethereum-network-is-ethereum-eth-dominance-at-stake/) - *Cryptoglobalist* - **$298.58**
