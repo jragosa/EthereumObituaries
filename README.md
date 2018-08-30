@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **35** times so far.
+## Ethereum has died **36** times so far.
 
 ### Timeline
  - [2014](#2014)
@@ -29,6 +29,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
  - Jun 21 - [Bitcoin rival Ethereum fights for its survival after $50 million heist](http://arstechnica.com/security/2016/06/bitcoin-rival-ethereum-fights-for-its-survival-after-50-million-heist/) - `Dan Goodin` - *Ars Technica* - **$11.82**
  - Jun 22 - [I can't help but think Ethereum is done for.](https://twitter.com/willena_en/status/745537561506942980) - `Victor Villena` - *Twitter* - **$14.37**
  - Jul 17 - [Ether/DAO Hack: Is Ethereum Dead?](http://cryptocrooks.com/dao-ether-hack-ethereum-dead/#.W4Qnoej-g2w) - `Michael` -  *CryptoCrooks* - **$11.35**
+ - Jul 20 - [Ethereum is done.](https://twitter.com/oliyoung/status/755621574808629249) - `Oli Young` - *Twitter* - **$12.45**
  - Sep 04 - [The Bizarre Fallout of Ethereum’s Epic Fail](http://fortune.com/2016/09/04/ethereum-fall-out/) - `David Z. Morris` - *Fortune* - **$11.76**
  - Sep 07 - [How Bitcoin Succeeded Where Ethereum Failed](http://coinjournal.net/bitcoin-succeeded-ethereum-failed/) - `Kyle Torpey` -  *CoinJournal* - **$11.58**
  - Oct 05 - [Why I’m short Ethereum (and long Bitcoin)](https://medium.com/@tuurdemeester/why-im-short-ethereum-and-long-bitcoin-aee5b1c198fd#.kwfrait73) - `Tuur Demeester` -  *Medium* - **$13.22**
