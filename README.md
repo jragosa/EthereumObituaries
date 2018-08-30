@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **36** times so far.
+## Ethereum has died **37** times so far.
 
 ### Timeline
  - [2014](#2014)
@@ -59,3 +59,4 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Aug 17 - [Is Ethereum (ETH) dominance at stake?](https://cryptoglobalist.com/2018/08/17/last-winner-game-jams-ethereum-network-is-ethereum-eth-dominance-at-stake/) - `Nick Mwenda` - *Cryptoglobalist* - **$298.58**
 - Aug 18 - [Accumulate this: ”ethereum is dead”.](https://twitter.com/AskHenrik/status/1030688496535719936) - `Henrik Ask` - *Twitter* - **$310.61**
 - Aug 24 - [Ethereum is a dead coin walking.](https://twitter.com/AnselLindner/status/1033120662121054213) - `Ansel Lindner` - *Twitter* - **$277.84**
+- Aug 24 - [Tt’s the end of Ethereum.](https://coingeek.com/the-attack-continues-vitalik-buterin-wants-bch-community-to-ostracize-craig-wright/) - `Dan Taylor` - *Coingeek* - **$277.84**
