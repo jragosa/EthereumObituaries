@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **40** times so far.
+## Ethereum has died **41** times so far.
 
 ### Timeline
  - [2014](#2014)
@@ -17,6 +17,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 ## The List
 ### 2014
+- Apr 09 - [Sidechains: the coming death of altcoins and ethereum.](https://letstalkbitcoin.com/e99-sidechain-innovation) - `Adam B. Levine` - *Let's Talk Bitcoin Podcast* - **Not Launched**
 - Oct 15 - [Why Ethereum is dead in the water.](https://bitcointalk.org/index.php?topic=824220.10) - `Rabbiter` - *Bitcointalk* - **Not Launched**
 ### 2015
  - Dec 25 - [Maybe it is too late to save Ethereum](http://www.wallstreettechnologist.com/2015/12/25/maybe-it-is-too-late-to-save-ethereum/) - `Digitsu` - *Wall Street Technologist* - **$0.88**
