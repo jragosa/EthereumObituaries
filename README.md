@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **39** times so far.
+## Ethereum has died **40** times so far.
 
 ### Timeline
  - [2014](#2014)
@@ -53,6 +53,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - May 15 - [Ethereum is officially dead](https://bitcointalk.org/index.php?topic=3299849.720) - `Straimrpl777`- *Bitcointalk* - **$732.28** 
 - Mar 18 - [Ethereum price drop today: Is ethereum dead?](https://www.express.co.uk/finance/city/932168/Ethereum-price-drop-today-is-ethereum-dead-will-cryptocurrency-go-back-up) - `Vickiie Oliphant` - *Daily Express* - **$520.30**
 - Apr 09 - [Ethereum is done with, only a matter of time.](https://twitter.com/FDesimpel/status/983309132307542016) - `Frederick Desimpel` - *Twitter* - **$415.72**
+- May 02 - [Can Ethereum (ETH) Survive Regulatory Scrutiny?](https://cryptodaily.co.uk/2018/05/can-ethereum-eth-survive-regulatory-scrutiny/) - `Fakhan` - *Cryptodaily* - **$680.18**
 - May 23 - [Ethereum size has exceeded 1TB, and yes, it’s an issue](https://hackernoon.com/the-ethereum-blockchain-size-has-exceeded-1tb-and-yes-its-an-issue-2b650b5f4f62) - `StopAndDecrypt` - *Hackernoon* - **$633.36**
 - Jun 09 - [Everything they don't want you to know about EOS, the 'Ethereum Killer'](https://hackernoon.com/everything-they-dont-want-you-to-know-about-eos-the-ethereum-killer-9939c43aa2df) - `Thijs Maas` - *Hackernoon* - **$605.90**
 - Jul 11 - [What if Ethereum is Just an Evolutionary Stepping Stone?](https://hackernoon.com/what-if-ethereum-is-just-an-evolutionary-stepping-stone-450a710f46c) - `Jon Creasy` - *Hackernoon* - **$440.06**
