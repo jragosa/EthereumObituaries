@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **42** times so far.
+## Ethereum has died **37** times so far.
 
 ### Timeline
  - [2014](#2014)
@@ -28,7 +28,6 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
  - Jun 18 - [R.I.P Ethereum - The Pre-Mined ScamCoin is dead](https://bitcointalk.org/index.php?topic=1516545.0) - `Portalufonet` - *Bitcointalk* - **$14.98**
  - Jun 20 - [Ethereum is Doomed](http://nakamotoinstitute.org/mempool/ethereum-is-doomed/#selection-323.271-327.310) - `Daniel Krawisz` - *Nakamoto Institute* - **$14.13**
  - Jun 21 - [Bitcoin rival Ethereum fights for its survival after $50 million heist](http://arstechnica.com/security/2016/06/bitcoin-rival-ethereum-fights-for-its-survival-after-50-million-heist/) - `Dan Goodin` - *Ars Technica* - **$11.82**
- - Jun 22 - [I can't help but think Ethereum is done for.](https://twitter.com/willena_en/status/745537561506942980) - `Victor Villena` - *Twitter* - **$14.37**
  - Jul 17 - [Ether/DAO Hack: Is Ethereum Dead?](http://cryptocrooks.com/dao-ether-hack-ethereum-dead/#.W4Qnoej-g2w) - `Michael` -  *CryptoCrooks* - **$11.35**
  - Jul 20 - [Ethereum is done.](https://twitter.com/oliyoung/status/755621574808629249) - `Oli Young` - *Twitter* - **$12.45**
  - Sep 04 - [The Bizarre Fallout of Ethereum’s Epic Fail](http://fortune.com/2016/09/04/ethereum-fall-out/) - `David Z. Morris` - *Fortune* - **$11.76**
@@ -50,18 +49,14 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 ### 2018
 - Feb 12 - [Ethereum: Is it dying a slow death?](https://medium.com/@cryptocolegio/ethereum-is-it-dying-a-slow-death-c9a5a2c56cc3) - `CryptoColegio` - *Medium* - **$852.51**
-- Feb 20 - [Ethereum is a failed project.](https://twitter.com/eduardobitcache/status/966009936605077505) - `Eduardo Bitcoin` - *Twitter* - **$945.13**
 - Mar 18 - [Ethereum price drop today: Is ethereum dead?](https://www.express.co.uk/finance/city/932168/Ethereum-price-drop-today-is-ethereum-dead-will-cryptocurrency-go-back-up) - `Vickiie Oliphant` - *Daily Express* - **$520.30**
-- Apr 09 - [Ethereum is done with, only a matter of time.](https://twitter.com/FDesimpel/status/983309132307542016) - `Frederick Desimpel` - *Twitter* - **$415.72**
 - May 02 - [Can Ethereum (ETH) Survive Regulatory Scrutiny?](https://cryptodaily.co.uk/2018/05/can-ethereum-eth-survive-regulatory-scrutiny/) - `Fakhan` - *Cryptodaily* - **$680.18**
 - May 15 - [Ethereum is officially dead](https://bitcointalk.org/index.php?topic=3299849.720) - `Straimrpl777`- *Bitcointalk* - **$732.28** 
-- May 18 - [We all know Ethereum will not survive the next 3-5 years](https://twitter.com/AuthorCLBrown/status/997568102761140224) - `C.L. Brown`- *Twitter* - **$692.28**
 - May 23 - [Ethereum size has exceeded 1TB, and yes, it’s an issue](https://hackernoon.com/the-ethereum-blockchain-size-has-exceeded-1tb-and-yes-its-an-issue-2b650b5f4f62) - `StopAndDecrypt` - *Hackernoon* - **$633.36**
 - Jun 09 - [Everything they don't want you to know about EOS, the 'Ethereum Killer'](https://hackernoon.com/everything-they-dont-want-you-to-know-about-eos-the-ethereum-killer-9939c43aa2df) - `Thijs Maas` - *Hackernoon* - **$605.90**
 - Jul 11 - [What if Ethereum is Just an Evolutionary Stepping Stone?](https://hackernoon.com/what-if-ethereum-is-just-an-evolutionary-stepping-stone-450a710f46c) - `Jon Creasy` - *Hackernoon* - **$440.06**
 - Jul 16 - [Ether (ETH) Bearish Thesis: The “Flippening” of Market Irrationality](https://medium.com/@tetrascapital/ether-eth-bearish-thesis-the-flippening-of-market-irrationality-8633e70ab498) - `Tetras Capital` - *Medium* - **$448.95**
 - Aug 12 - [The Ethereum death spiral is just beginning](https://twitter.com/realpauleverton/status/1028699619763531776) - `Paul Everton` - *Twitter* - **$327.07**
 - Aug 17 - [Is Ethereum (ETH) dominance at stake?](https://cryptoglobalist.com/2018/08/17/last-winner-game-jams-ethereum-network-is-ethereum-eth-dominance-at-stake/) - `Nick Mwenda` - *Cryptoglobalist* - **$298.58**
-- Aug 18 - [Accumulate this: ”ethereum is dead”.](https://twitter.com/AskHenrik/status/1030688496535719936) - `Henrik Ask` - *Twitter* - **$310.61**
 - Aug 24 - [Ethereum is a dead coin walking.](https://twitter.com/AnselLindner/status/1033120662121054213) - `Ansel Lindner` - *Twitter* - **$277.84**
 - Aug 24 - [It’s the end of Ethereum.](https://coingeek.com/the-attack-continues-vitalik-buterin-wants-bch-community-to-ostracize-craig-wright/) - `Dan Taylor` - *Coingeek* - **$277.84**
