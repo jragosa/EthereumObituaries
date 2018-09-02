@@ -9,5 +9,6 @@ Your contributions are always welcome!
 * Add a single link per Pull Request.
 * Remember to update the death counter at the top.
 * Add the link and respect the formatting: `- Date - [Post-title](http://example.com/) - Author - *Publication* - **$Price**.`
+* A Tweet needs to come from a Twitter account with more than 1000 followers to be included in this list.
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
