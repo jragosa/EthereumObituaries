@@ -61,5 +61,6 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Aug 20 - [Ether, A Double Digit Shitcoin](https://blog.bitmex.com/ether-a-double-digit-shitcoin/) - `Arthur Hayes` - *BitMex Blog* - **$301.95**
 - Aug 24 - [Ethereum is a dead coin walking.](https://twitter.com/AnselLindner/status/1033120662121054213) - `Ansel Lindner` - *Twitter* - **$277.84**
 - Aug 24 - [It’s the end of Ethereum.](https://coingeek.com/the-attack-continues-vitalik-buterin-wants-bch-community-to-ostracize-craig-wright/) - `Dan Taylor` - *Coingeek* - **$277.84**
+- Aug 30 - [Ethereum: A broken engine?](https://www.taurusgroup.ch/ethereum-a-broken-engine/) - `Taurus Group SA` - *Taurus Group SA* - **$284.92**
 - Sep 02 - [ETH Futures: Bad for Ethereum, Good for Bitcoin, says Tom Lee](https://bitcoinist.com/eth-futures-ethereum-bitcoin-tom-lee/) - `Tom Lee` - *Bitcoinist* - **$295.32**
 - Sep 02 - [The Collapse of ETH is Inevitable](https://techcrunch.com/2018/09/02/the-collapse-of-eth-is-inevitable/) - `Jeremy Rubin` - *Techcrunch* - **$294.86**
