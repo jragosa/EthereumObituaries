@@ -60,3 +60,4 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Aug 17 - [Is Ethereum (ETH) dominance at stake?](https://cryptoglobalist.com/2018/08/17/last-winner-game-jams-ethereum-network-is-ethereum-eth-dominance-at-stake/) - `Nick Mwenda` - *Cryptoglobalist* - **$298.58**
 - Aug 24 - [Ethereum is a dead coin walking.](https://twitter.com/AnselLindner/status/1033120662121054213) - `Ansel Lindner` - *Twitter* - **$277.84**
 - Aug 24 - [It’s the end of Ethereum.](https://coingeek.com/the-attack-continues-vitalik-buterin-wants-bch-community-to-ostracize-craig-wright/) - `Dan Taylor` - *Coingeek* - **$277.84**
+- Sept 02 - [The Collapse of ETH is Inevitable](https://techcrunch.com/2018/09/02/the-collapse-of-eth-is-inevitable/) - `Jeremy Rubin` - Techcrunch - **$294.86**
