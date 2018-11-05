@@ -23,7 +23,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
  - Dec 25 - [Maybe it is too late to save Ethereum](http://www.wallstreettechnologist.com/2015/12/25/maybe-it-is-too-late-to-save-ethereum/) - `Digitsu` - *Wall Street Technologist* - **$0.88**
 ### 2016
  - Mar 09 - [Why your Ethereum project will most likely fail](https://medium.com/@bedeho/why-your-ethereum-project-will-most-likely-fail-d14b6d8f1c7c#.2ncy6qz5l) - `Bedeho Mender` - *Medium* - **$10.67**
- - Mar 28 - [Counterparty Community Director: Ethereum Can’t Work, it’s 100% Hype](http://www.newsbtc.com/2016/03/28/counterparty-founder-ethereum-cant-work-100-hype/) - `Chris DeRose` - *NewsBTC* - **$11.53**
+ - Mar 28 - [Ethereum Can’t Work, it’s 100% Hype](http://www.newsbtc.com/2016/03/28/counterparty-founder-ethereum-cant-work-100-hype/) - `Chris DeRose` - *NewsBTC* - **$11.53**
  - Jun 17 - [The Fundamental Problems with Ethereum](https://medium.com/@beautyon_/the-fundamental-problems-with-ethereum-408c420849f0#.9fc7v8qt3) - `Beautyon` - *Medium* - **$14.85**
  - Jun 18 - [R.I.P Ethereum - The Pre-Mined ScamCoin is dead](https://bitcointalk.org/index.php?topic=1516545.0) - `Portalufonet` - *Bitcointalk* - **$14.98**
  - Jun 20 - [Ethereum is Doomed](http://nakamotoinstitute.org/mempool/ethereum-is-doomed/#selection-323.271-327.310) - `Daniel Krawisz` - *Nakamoto Institute* - **$14.13**
@@ -42,7 +42,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Sep 28 - [Is Ethereum Doomed To Fail?](http://www.digitalmarketingcasestudies.com/2017/09/28/ethereum-doomed-fail/) - `Portushead` - *Digital Marketing Case Studies* - **$304.77**
 - Nov 10 - [ETH (ETHEREUM) IS DEAD](https://steemit.com/bitcoin/@juniusmaltby/eth-ethereum-is-dead) - `Juniusmaltby` - *Steem* - **$318.19**
 - Nov 16 - [The Neverending Ethereum Disaster](https://robertmcgrath.wordpress.com/2017/11/16/the-neverending-ethereum-disaster/) - `Robert McGrath`- *Robert McGrath's blog* - **$328.52**
-- Nov 20 - [Ethereum is Doomed – Why the Ether Cryptocurrency will Fail in 2018](https://oracletimes.com/ethereum-is-doomed-why-the-ether-cryptocurrency-will-fail-in-2018/) - `Techno Rajji` - *OracleTimes* - **$362.95**
+- Nov 20 - [Why the Ether Cryptocurrency will Fail in 2018](https://oracletimes.com/ethereum-is-doomed-why-the-ether-cryptocurrency-will-fail-in-2018/) - `Techno Rajji` - *OracleTimes* - **$362.95**
 - Nov 26 - [Parity Hack Shows the Ethereum Ecosystem Is Flawed in Big Ways](https://nulltx.com/parity-hack-shows-the-ethereum-ecosystem-is-flawed-in-big-ways/) - `JP Buntinx`- *NullTX* - **$462.49**
 - Dec 04 - [CryptoKitties Is Totally Wrecking the Ethereum Network](https://www.bitsonline.com/cryptokitties-wrecking-ethereum/) - `Tyson O'Ham` - *Bitsonline* - **$462.44**
 - Dec 11 - [Reasons Why Ethereum Could Be Doomed](https://globalcoinreport.com/reasons-why-ethereum-could-be-doomed/) - `Brianna Browning` - *GlobalCoinReport* - **$588.32**
@@ -53,9 +53,9 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - May 02 - [Can Ethereum (ETH) Survive Regulatory Scrutiny?](https://cryptodaily.co.uk/2018/05/can-ethereum-eth-survive-regulatory-scrutiny/) - `Fakhan` - *Cryptodaily* - **$680.18**
 - May 15 - [Ethereum is officially dead](https://bitcointalk.org/index.php?topic=3299849.720) - `Straimrpl777`- *Bitcointalk* - **$732.28** 
 - May 23 - [Ethereum size has exceeded 1TB, and yes, it’s an issue](https://hackernoon.com/the-ethereum-blockchain-size-has-exceeded-1tb-and-yes-its-an-issue-2b650b5f4f62) - `StopAndDecrypt` - *Hackernoon* - **$633.36**
-- Jun 09 - [Everything they don't want you to know about EOS, the 'Ethereum Killer'](https://hackernoon.com/everything-they-dont-want-you-to-know-about-eos-the-ethereum-killer-9939c43aa2df) - `Thijs Maas` - *Hackernoon* - **$605.90**
+- Jun 09 - [Everything about EOS, the 'Ethereum Killer'](https://hackernoon.com/everything-they-dont-want-you-to-know-about-eos-the-ethereum-killer-9939c43aa2df) - `Thijs Maas` - *Hackernoon* - **$605.90**
 - Jul 11 - [What if Ethereum is Just an Evolutionary Stepping Stone?](https://hackernoon.com/what-if-ethereum-is-just-an-evolutionary-stepping-stone-450a710f46c) - `Jon Creasy` - *Hackernoon* - **$440.06**
-- Jul 16 - [Ether (ETH) Bearish Thesis: The “Flippening” of Market Irrationality](https://medium.com/@tetrascapital/ether-eth-bearish-thesis-the-flippening-of-market-irrationality-8633e70ab498) - `Tetras Capital` - *Medium* - **$448.95**
+- Jul 16 - [Ether Bearish Thesis: The “Flippening” of Market Irrationality](https://medium.com/@tetrascapital/ether-eth-bearish-thesis-the-flippening-of-market-irrationality-8633e70ab498) - `Tetras Capital` - *Medium* - **$448.95**
 - Aug 12 - [The Ethereum death spiral is just beginning](https://twitter.com/realpauleverton/status/1028699619763531776) - `Paul Everton` - *Twitter* - **$327.07**
 - Aug 17 - [Is Ethereum (ETH) dominance at stake?](https://cryptoglobalist.com/2018/08/17/last-winner-game-jams-ethereum-network-is-ethereum-eth-dominance-at-stake/) - `Nick Mwenda` - *Cryptoglobalist* - **$298.58**
 - Aug 20 - [Ether, A Double Digit Shitcoin](https://blog.bitmex.com/ether-a-double-digit-shitcoin/) - `Arthur Hayes` - *BitMex Blog* - **$301.95**
