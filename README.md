@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **42** times so far.
+## Ethereum has died **43** times so far.
 
 ### Timeline
  - [2014](#2014)
@@ -65,3 +65,5 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Sep 02 - [ETH Futures: Bad for Ethereum, Good for Bitcoin, says Tom Lee](https://bitcoinist.com/eth-futures-ethereum-bitcoin-tom-lee/) - `Tom Lee` - *Bitcoinist* - **$295.32**
 - Sep 02 - [The Collapse of ETH is Inevitable](https://techcrunch.com/2018/09/02/the-collapse-of-eth-is-inevitable/) - `Jeremy Rubin` - *Techcrunch* - **$294.86**
 - Sep 04 - [Ethereum’s Demise as a Cryptocurrency is Foreseeable](https://medium.com/futuresin/ethereums-demise-as-a-cryptocurrency-is-foreseeable-d9240dcc061e) - `Michael K. Spencer` - *Medium* - **$224.23**
+- Sep 10 - [The Death of Ethereum](https://www.linkedin.com/pulse/death-ethereum-mujeeb-lawal/) - `Mujeeb Lawal
+`- *LinkedIn* - **$198.32**
