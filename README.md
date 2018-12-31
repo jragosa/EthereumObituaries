@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **44** times so far.
+## Ethereum has died **45** times so far.
 
 ### Timeline
  - [2014](#2014)
@@ -68,3 +68,4 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Sep 10 - [The Death of Ethereum](https://www.linkedin.com/pulse/death-ethereum-mujeeb-lawal/) - `Mujeeb Lawal
 `- *LinkedIn* - **$198.32**
 - Dec 17 - [The Fall of Ethereum](https://medium.com/futuresin/the-fall-of-ethereum-15c4b64467d8) - `Michael K. Spencer` - *Medium* - **$85.50**
+- Dec 25 - [ICOs and Ethereum Are Dead](https://digitalmarkettoday.com/4-words-in-2018-icos-and-ethereum-are-dead/) - `Digital Marketplace` - *Digital Market Today* - **$131.28**
