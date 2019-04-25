@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **46** times so far.
+## Ethereum has died **48** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20190103.png)
 
@@ -16,6 +16,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
  - [2016](#2016)
  - [2017](#2017)
  - [2018](#2018)
+ - [2019](#2019)
 
 ## The List
 ### 2014
@@ -72,3 +73,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Dec 10 - [Constantinople Hard Fork Could Spell Doomsday for Ethereum](https://cryptoiq.co/falling-prices-increasing-regulation-causing-crypto-hedge-funds-to-shut-down/) - `Zachary Mashiach` - *Crypto.IQ* - **$94.48**
 - Dec 17 - [The Fall of Ethereum](https://medium.com/futuresin/the-fall-of-ethereum-15c4b64467d8) - `Michael K. Spencer` - *Medium* - **$85.50**
 - Dec 25 - [ICOs and Ethereum Are Dead](https://digitalmarkettoday.com/4-words-in-2018-icos-and-ethereum-are-dead/) - `Digital Marketplace` - *Digital Market Today* - **$131.28**
+
+### 2019
+- Mar 28 - [Ethereum Is Losing Its Luster And Its Market Share](https://www.bloomberg.com/news/articles/2019-03-28/better-version-of-bitcoin-loses-luster-as-apps-move-elsewhere) - `Olga Kharif` - *Bloomberg* - **$140.42**
+- Apr 03 - [Is Ethereum’s market share at risk from EOS and TRON?](https://cryptoslate.com/is-ethereums-market-share-at-risk-from-eos-and-tron/) - `Priyeshu Garg` - *CryptoSlate* - **$173.13**
