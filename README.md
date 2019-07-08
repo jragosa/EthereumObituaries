@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **49** times so far.
+## Ethereum has died **50** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20190103.png)
 
@@ -78,3 +78,4 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Mar 28 - [Ethereum Is Losing Its Luster And Its Market Share](https://www.bloomberg.com/news/articles/2019-03-28/better-version-of-bitcoin-loses-luster-as-apps-move-elsewhere) - `Olga Kharif` - *Bloomberg* - **$140.42**
 - Apr 03 - [Is Ethereum’s market share at risk from EOS and TRON?](https://cryptoslate.com/is-ethereums-market-share-at-risk-from-eos-and-tron/) - `Priyeshu Garg` - *CryptoSlate* - **$173.13**
 - Apr 05 - [Ethereum: Running Out of Gas](https://medium.com/@HASHCIB/ethereum-running-out-of-gas-697b49b07e73) - `Rustam Botashev & Mikhail Butov` - *Medium* - **$158.21**
+- Jul 07 - [The Ethereum Killer Is Already Here](https://www.ccn.com/op-ed/ethereum-killer-is-binance/2019/07/07/) - `Greg Thompson` - *CCN* - **$307.69**
