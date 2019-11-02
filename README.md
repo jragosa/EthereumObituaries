@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **52** times so far.
+## Ethereum has died **53** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20190103.png)
 
@@ -78,6 +78,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Mar 28 - [Ethereum Is Losing Its Luster And Its Market Share](https://www.bloomberg.com/news/articles/2019-03-28/better-version-of-bitcoin-loses-luster-as-apps-move-elsewhere) - `Olga Kharif` - *Bloomberg* - **$140.42**
 - Apr 03 - [Is Ethereum’s market share at risk from EOS and TRON?](https://cryptoslate.com/is-ethereums-market-share-at-risk-from-eos-and-tron/) - `Priyeshu Garg` - *CryptoSlate* - **$173.13**
 - Apr 05 - [Ethereum: Running Out of Gas](https://medium.com/@HASHCIB/ethereum-running-out-of-gas-697b49b07e73) - `Rustam Botashev & Mikhail Butov` - *Medium* - **$158.21**
+- Jun 07 - [Ethereum is among crypto's deadwood](https://www.bloomberg.com/opinion/articles/2019-06-07/cryptocurrency-winners-are-starting-to-emerge) - `Aaron Brown` - *Bloomberg* - **$249.53**
 - Jul 07 - [The Ethereum Killer Is Already Here](https://www.ccn.com/op-ed/ethereum-killer-is-binance/2019/07/07/) - `Greg Thompson` - *CCN* - **$307.69**
 - Aug 12 - [Chances of ETH ever getting over $500 again are virtually zero](https://twitter.com/maxkeiser/status/1160897404809424898) - `Max Keiser` - *Twitter* - **$211.87**
 - Oct 21 - [When Will Bitcoin Sidechains Send Ethereum Price To Zero?](https://www.forbes.com/sites/ktorpey/2019/10/21/when-will-bitcoin-sidechains-send-ethereum-ripple-and-other-crypto-prices-to-zero/amp/?__twitter_impression=true) - `Kyle Torpey` - *Forbes* - **$174.51**
