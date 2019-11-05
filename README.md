@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **53** times so far.
+## Ethereum has died **52** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20190103.png)
 
@@ -25,7 +25,6 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 ### 2015
  - Dec 25 - [Maybe it is too late to save Ethereum](https://www.wallstreettechnologist.com/?p=771) - `Digitsu` - *Wall Street Technologist* - **$0.88**
 ### 2016
- - Mar 09 - [Why your Ethereum project will most likely fail](https://medium.com/@bedeho/why-your-ethereum-project-will-most-likely-fail-d14b6d8f1c7c#.2ncy6qz5l) - `Bedeho Mender` - *Medium* - **$10.67**
  - Mar 28 - [Ethereum Can’t Work, it’s 100% Hype](http://www.newsbtc.com/2016/03/28/counterparty-founder-ethereum-cant-work-100-hype/) - `Chris DeRose` - *NewsBTC* - **$11.53**
  - Jun 17 - [The Fundamental Problems with Ethereum](https://medium.com/@beautyon_/the-fundamental-problems-with-ethereum-408c420849f0#.9fc7v8qt3) - `Beautyon` - *Medium* - **$14.85**
  - Jun 18 - [R.I.P Ethereum - The Pre-Mined ScamCoin is dead](https://bitcointalk.org/index.php?topic=1516545.0) - `Portalufonet` - *Bitcointalk* - **$14.98**
