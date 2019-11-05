@@ -23,7 +23,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Apr 09 - [Sidechains: the coming death of altcoins and ethereum.](https://letstalkbitcoin.com/e99-sidechain-innovation) - `Adam Back` - *Let's Talk Bitcoin* - **Not Launched**
 - Oct 15 - [Why Ethereum is dead in the water.](https://bitcointalk.org/index.php?topic=824220.10) - `Rabbiter` - *Bitcointalk* - **Not Launched**
 ### 2015
- - Dec 25 - [Maybe it is too late to save Ethereum](http://www.wallstreettechnologist.com/2015/12/25/maybe-it-is-too-late-to-save-ethereum/) - `Digitsu` - *Wall Street Technologist* - **$0.88**
+ - Dec 25 - [Maybe it is too late to save Ethereum](https://www.wallstreettechnologist.com/?p=771) - `Digitsu` - *Wall Street Technologist* - **$0.88**
 ### 2016
  - Mar 09 - [Why your Ethereum project will most likely fail](https://medium.com/@bedeho/why-your-ethereum-project-will-most-likely-fail-d14b6d8f1c7c#.2ncy6qz5l) - `Bedeho Mender` - *Medium* - **$10.67**
  - Mar 28 - [Ethereum Can’t Work, it’s 100% Hype](http://www.newsbtc.com/2016/03/28/counterparty-founder-ethereum-cant-work-100-hype/) - `Chris DeRose` - *NewsBTC* - **$11.53**
