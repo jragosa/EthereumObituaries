@@ -31,7 +31,6 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
  - Jun 20 - [Ethereum is Doomed](http://nakamotoinstitute.org/mempool/ethereum-is-doomed/#selection-323.271-327.310) - `Daniel Krawisz` - *Nakamoto Institute* - **$14.13**
  - Jun 21 - [Bitcoin rival Ethereum fights for its survival after $50 million heist](http://arstechnica.com/security/2016/06/bitcoin-rival-ethereum-fights-for-its-survival-after-50-million-heist/) - `Dan Goodin` - *Ars Technica* - **$11.82**
  - Jul 17 - [Ether/DAO Hack: Is Ethereum Dead?](http://cryptocrooks.com/dao-ether-hack-ethereum-dead/#.W4Qnoej-g2w) - `Michael` -  *CryptoCrooks* - **$11.35**
- - Jul 20 - [Ethereum is done.](https://twitter.com/oliyoung/status/755621574808629249) - `Oli Young` - *Twitter* - **$12.45**
  - Sep 04 - [The Bizarre Fallout of Ethereum’s Epic Fail](http://fortune.com/2016/09/04/ethereum-fall-out/) - `David Z. Morris` - *Fortune* - **$11.76**
  - Sep 07 - [How Bitcoin Succeeded Where Ethereum Failed](http://coinjournal.net/bitcoin-succeeded-ethereum-failed/) - `Kyle Torpey` -  *CoinJournal* - **$11.58**
  - Oct 05 - [Why I’m short Ethereum (and long Bitcoin)](https://medium.com/@tuurdemeester/why-im-short-ethereum-and-long-bitcoin-aee5b1c198fd#.kwfrait73) - `Tuur Demeester` -  *Medium* - **$13.22**
@@ -81,3 +80,4 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Jul 07 - [The Ethereum Killer Is Already Here](https://www.ccn.com/op-ed/ethereum-killer-is-binance/2019/07/07/) - `Greg Thompson` - *CCN* - **$307.69**
 - Aug 12 - [Chances of ETH ever getting over $500 again are virtually zero](https://twitter.com/maxkeiser/status/1160897404809424898) - `Max Keiser` - *Twitter* - **$211.87**
 - Oct 21 - [When Will Bitcoin Sidechains Send Ethereum Price To Zero?](https://www.forbes.com/sites/ktorpey/2019/10/21/when-will-bitcoin-sidechains-send-ethereum-ripple-and-other-crypto-prices-to-zero/amp/?__twitter_impression=true) - `Kyle Torpey` - *Forbes* - **$174.51**
+- Nov 27 - [By 2021 you'll have forgotten ethereum was a thing.](https://twitter.com/jebus911/status/1199540720496984065?s=09) - `Jeremy Ross` - *Twitter* - **$149.05**
