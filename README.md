@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **52** times so far.
+## Ethereum has died **53** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20190103.png)
 
@@ -17,6 +17,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
  - [2017](#2017)
  - [2018](#2018)
  - [2019](#2019)
+ - [2020](#2020)
 
 ## The List
 ### 2014
@@ -81,3 +82,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Aug 12 - [Chances of ETH ever getting over $500 again are virtually zero](https://twitter.com/maxkeiser/status/1160897404809424898) - `Max Keiser` - *Twitter* - **$211.87**
 - Oct 21 - [When Will Bitcoin Sidechains Send Ethereum Price To Zero?](https://www.forbes.com/sites/ktorpey/2019/10/21/when-will-bitcoin-sidechains-send-ethereum-ripple-and-other-crypto-prices-to-zero/amp/?__twitter_impression=true) - `Kyle Torpey` - *Forbes* - **$174.51**
 - Nov 27 - [By 2021 you'll have forgotten ethereum was a thing.](https://twitter.com/jebus911/status/1199540720496984065?s=09) - `Jeremy Ross` - *Twitter* - **$149.05**
+
+
+### 2020
+- Jun 12 - [ETH is a poor store of value & a terrible cryptocurrency](https://medium.com/@ExponentialIM/ether-and-bitcoin-are-not-the-same-e5932b510821) - `Steven McClurg & Leah Wald` - *Medium* - **$232.76**
