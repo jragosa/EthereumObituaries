@@ -30,7 +30,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
  - Jun 17 - [The Fundamental Problems with Ethereum](https://medium.com/@beautyon_/the-fundamental-problems-with-ethereum-408c420849f0#.9fc7v8qt3) - `Beautyon` - *Medium* - **$14.85**
  - Jun 18 - [R.I.P Ethereum - The Pre-Mined ScamCoin is dead](https://bitcointalk.org/index.php?topic=1516545.0) - `Portalufonet` - *Bitcointalk* - **$14.98**
  - Jun 20 - [Ethereum is Doomed](http://nakamotoinstitute.org/mempool/ethereum-is-doomed/#selection-323.271-327.310) - `Daniel Krawisz` - *Nakamoto Institute* - **$14.13**
- - Jun 21 - [Bitcoin rival Ethereum fights for its survival after $50 million heist](http://arstechnica.com/security/2016/06/bitcoin-rival-ethereum-fights-for-its-survival-after-50-million-heist/) - `Dan Goodin` - *Ars Technica* - **$11.82**
+ - Jun 21 - [Ethereum fights for its survival after $50 million heist](http://arstechnica.com/security/2016/06/bitcoin-rival-ethereum-fights-for-its-survival-after-50-million-heist/) - `Dan Goodin` - *Ars Technica* - **$11.82**
  - Jul 17 - [Ether/DAO Hack: Is Ethereum Dead?](http://cryptocrooks.com/dao-ether-hack-ethereum-dead/#.W4Qnoej-g2w) - `Michael` -  *CryptoCrooks* - **$11.35**
  - Sep 04 - [The Bizarre Fallout of Ethereum’s Epic Fail](http://fortune.com/2016/09/04/ethereum-fall-out/) - `David Z. Morris` - *Fortune* - **$11.76**
  - Sep 07 - [How Bitcoin Succeeded Where Ethereum Failed](http://coinjournal.net/bitcoin-succeeded-ethereum-failed/) - `Kyle Torpey` -  *CoinJournal* - **$11.58**
@@ -69,7 +69,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Sep 04 - [Ethereum’s Demise as a Cryptocurrency is Foreseeable](https://medium.com/futuresin/ethereums-demise-as-a-cryptocurrency-is-foreseeable-d9240dcc061e) - `Michael K. Spencer` - *Medium* - **$224.23**
 - Sep 10 - [The Death of Ethereum](https://www.linkedin.com/pulse/death-ethereum-mujeeb-lawal/) - `Mujeeb Lawal
 `- *LinkedIn* - **$198.32**
-- Dec 10 - [Constantinople Hard Fork Could Spell Doomsday for Ethereum](https://cryptoiq.co/falling-prices-increasing-regulation-causing-crypto-hedge-funds-to-shut-down/) - `Zachary Mashiach` - *Crypto.IQ* - **$94.48**
+- Dec 10 - [Hard Fork Could Spell Doomsday for Ethereum](https://cryptoiq.co/falling-prices-increasing-regulation-causing-crypto-hedge-funds-to-shut-down/) - `Zachary Mashiach` - *Crypto.IQ* - **$94.48**
 - Dec 17 - [The Fall of Ethereum](https://medium.com/futuresin/the-fall-of-ethereum-15c4b64467d8) - `Michael K. Spencer` - *Medium* - **$85.50**
 - Dec 25 - [ICOs and Ethereum Are Dead](https://digitalmarkettoday.com/4-words-in-2018-icos-and-ethereum-are-dead/) - `Digital Marketplace` - *Digital Market Today* - **$131.28**
 
@@ -85,4 +85,4 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 
 ### 2020
-- Jun 12 - [ETH is a poor store of value & a terrible cryptocurrency](https://medium.com/@ExponentialIM/ether-and-bitcoin-are-not-the-same-e5932b510821) - `Steven McClurg & Leah Wald` - *Medium* - **$232.76**
+- Jun 12 - [ETH is a poor store of value & a terrible crypto](https://medium.com/@ExponentialIM/ether-and-bitcoin-are-not-the-same-e5932b510821) - `Steven McClurg & Leah Wald` - *Medium* - **$232.76**
