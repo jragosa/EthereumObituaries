@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **54** times so far.
+## Ethereum has died **55** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20200613_Sources.png)
 
@@ -86,4 +86,6 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 ### 2020
 - Jun 12 - [ETH is a poor store of value & a terrible crypto](https://medium.com/@ExponentialIM/ether-and-bitcoin-are-not-the-same-e5932b510821) - `Steven McClurg & Leah Wald` - *Medium* - **$232.76**
+- Sep 07 - [Ethereum is a dead chain limping](https://coingeek.com/ethereum-is-a-dead-chain-limping/) - `Mohammad Jaber` - *Coingeek* - **$357.92**
 - Sep 11 - ["Binance Smart Chain" launched & it's a drop-in replacement for ETH.](https://twitter.com/fluffypony/status/1304379141903577089) - `Riccardo Spagni` - *Twitter* - **$368.18**
+
