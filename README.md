@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **55** times so far.
+## Ethereum has died **54** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20200613_Sources.png)
 
@@ -50,7 +50,6 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Dec 11 - [Reasons Why Ethereum Could Be Doomed](https://globalcoinreport.com/reasons-why-ethereum-could-be-doomed/) - `Brianna Browning` - *GlobalCoinReport* - **$588.32**
 
 ### 2018
-- Feb 12 - [Ethereum: Is it dying a slow death?](https://medium.com/@cryptocolegio/ethereum-is-it-dying-a-slow-death-c9a5a2c56cc3) - `CryptoColegio` - *Medium* - **$852.51**
 - Mar 18 - [Ethereum price drop today: Is ethereum dead?](https://www.express.co.uk/finance/city/932168/Ethereum-price-drop-today-is-ethereum-dead-will-cryptocurrency-go-back-up) - `Vickiie Oliphant` - *Daily Express* - **$520.30**
 - May 02 - [Can Ethereum (ETH) Survive Regulatory Scrutiny?](https://cryptodaily.co.uk/2018/05/can-ethereum-eth-survive-regulatory-scrutiny/) - `Fakhan` - *Cryptodaily* - **$680.18**
 - May 15 - [Ethereum is officially dead](https://bitcointalk.org/index.php?topic=3299849.720) - `Straimrpl777`- *Bitcointalk* - **$732.28** 
