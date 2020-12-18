@@ -86,7 +86,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 ### 2020
 - Feb 25 - [It’s “Game Over” for Ethereum](https://www.newsbtc.com/news/ethereum/its-game-over-for-ethereum-as-violent-selloff-leads-it-below-do-or-die-level/) - `Cole Petersen` - *NewsBTC* - **$265.24**
 - Jun 12 - [ETH is a poor store of value & a terrible crypto](https://medium.com/@ExponentialIM/ether-and-bitcoin-are-not-the-same-e5932b510821) - `Steven McClurg & Leah Wald` - *Medium* - **$232.76**
-- Jul 16 - [Death of Fat Protocol Thesis Is Bearish for Ethereum](https://cryptobriefing.com/death-fat-protocol-thesis-is-bearish-ethereum/) - `Ashwath Balakrishnan` - *Cryptobriefing.com* - **$238.66**
+- Jul 16 - [Death of Fat Protocol Thesis Is Bearish for Ethereum](https://cryptobriefing.com/death-fat-protocol-thesis-is-bearish-ethereum/) - `Ashwath Balakrishnan` - *Cryptobriefing* - **$238.66**
 - Sep 07 - [Ethereum is a dead chain limping](https://coingeek.com/ethereum-is-a-dead-chain-limping/) - `Mohammad Jaber` - *Coingeek* - **$357.92**
 - Sep 11 - ["Binance Smart Chain" launched & it's a drop-in replacement for ETH.](https://twitter.com/fluffypony/status/1304379141903577089) - `Riccardo Spagni` - *Twitter* - **$368.18**
 
