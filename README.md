@@ -18,6 +18,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
  - [2018](#2018)
  - [2019](#2019)
  - [2020](#2020)
+ - [2021](#2021)
 
 ## The List
 ### 2014
@@ -91,3 +92,5 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Sep 07 - [Ethereum is a dead chain limping](https://coingeek.com/ethereum-is-a-dead-chain-limping/) - `Mohammad Jaber` - *Coingeek* - **$357.92**
 - Sep 11 - ["Binance Chain" launched & it's a drop-in replacement for ETH.](https://twitter.com/fluffypony/status/1304379141903577089) - `Riccardo Spagni` - *Twitter* - **$368.18**
 
+### 2021
+- Mar 13 - [Rise of Layer 2s Spells End for Ethereum](https://www.coindesk.com/rise-of-layer-2s-altcoins-like-ethereum) - `Eden Yago` - *Coindesk* - **$1900.24**
