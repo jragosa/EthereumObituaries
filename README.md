@@ -6,9 +6,9 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **57** times so far.
+## Ethereum has died **58** times so far.
 
-![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20201228_Sources.png)
+![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20210314_Sources.png)
 
 ### Timeline
  - [2014](#2014)
