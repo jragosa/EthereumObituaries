@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **58** times so far.
+## Ethereum has died **59** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20210314_Sources_fixed.png)
 
@@ -94,3 +94,4 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 ### 2021
 - Mar 13 - [Rise of Layer 2s Spells End for Ethereum](https://www.coindesk.com/rise-of-layer-2s-altcoins-like-ethereum) - `Eden Yago` - *Coindesk* - **$1900.24**
+- Mar 25 - [Death of ETH Party!](https://twitter.com/blknoiz06/status/1374820170233962505/photo/1) - `BTC Maxi gang` - *Clubhouse* - **$1614.21**
