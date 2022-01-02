@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **59** times so far.
+## Ethereum has died **64** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20210314_Sources_fixed.png)
 
@@ -95,3 +95,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 ### 2021
 - Mar 13 - [Rise of Layer 2s Spells End for Ethereum](https://www.coindesk.com/rise-of-layer-2s-altcoins-like-ethereum) - `Eden Yago` - *Coindesk* - **$1900.24**
 - Mar 25 - [Death of ETH Party!](https://twitter.com/blknoiz06/status/1374820170233962505/photo/1) - `BTC Maxi gang` - *Clubhouse* - **$1614.21**
+- May 20 - [Bitcoin and Ethereum Are Dead](https://medium.com/personal-finance/bitcoin-and-ethereum-are-dead-and-their-honest-investors-know-it-a36ee97df89d) - `Jared A. Brock` - *Medium* - **$2505.01**
+- Jul 31 - [Death of ETH Party! #2](https://twitter.com/bneiluj/status/1415056273935056898) - `BTC Maxi gang` - *Clubhouse* - **$2042.50**
+- Oct 06 - [Ethereum: Death By 1000 Paper Cuts](https://seekingalpha.com/article/4458739-ethereum-death-by-1000-paper-cuts) - `TheValueTrend` - *Seeking Alpha* - **$3520.34**
+- Nov 21 - [Yes I have abandoned Ethereum](https://twitter.com/zhusu/status/1462216210116853762) - `Zhu Su` - *Twitter* - **$4436.19**
+- Dec 31 - [Why I'm bearish on Ethereum](https://taschalabs.com/why-im-bearish-on-ethereum/) - `Natascha Che` - *Tascha Labs Blog* - **$3824.36**
