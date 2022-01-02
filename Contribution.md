@@ -4,7 +4,7 @@ Your contributions are always welcome!
 
 ## Guidelines
 
-* Verify that the link you want to add states that the Ethereum project is failing / ending / over / killed / outclassed / dead / going to zero either in the post title or in its contents.
+* Verify that the link you want to add states that the Ethereum project is failing / ending / over / killed / outclassed / dead / overtly bearish / going to zero either in the post title or in its contents.
 * Search previous suggestions before making a new one, as yours may be a duplicate.
 * Add a single link per Pull Request.
 * Remember to update the death counter at the top.
