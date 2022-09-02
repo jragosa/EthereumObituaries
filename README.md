@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **64** times so far.
+## Ethereum has died **65** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20220102_Sources.png)
 
@@ -19,6 +19,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
  - [2019](#2019)
  - [2020](#2020)
  - [2021](#2021)
+ - [2022](#2022)
 
 ## The List
 ### 2014
@@ -100,3 +101,6 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Oct 06 - [Ethereum: Death By 1000 Paper Cuts](https://seekingalpha.com/article/4458739-ethereum-death-by-1000-paper-cuts) - `TheValueTrend` - *Seeking Alpha* - **$3520.34**
 - Nov 21 - [Yes I have abandoned Ethereum](https://twitter.com/zhusu/status/1462216210116853762) - `Zhu Su` - *Twitter* - **$4436.19**
 - Dec 31 - [Why I'm bearish on Ethereum](https://taschalabs.com/why-im-bearish-on-ethereum/) - `Natascha Che` - *Tascha Labs Blog* - **$3824.36**
+
+### 2022
+- Aug 19 - [Ethereum is already dead](https://twitter.com/AnselLindner/status/1560612838313381888) - `Ansel Lindner` - *Twitter* - **$1850,11**
