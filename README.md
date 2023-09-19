@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **65** times so far.
+## Ethereum has died **68** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20220102_Sources.png)
 
@@ -20,6 +20,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
  - [2020](#2020)
  - [2021](#2021)
  - [2022](#2022)
+ - [2023](#2023)
 
 ## The List
 ### 2014
@@ -103,4 +104,9 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Dec 31 - [Why I'm bearish on Ethereum](https://taschalabs.com/why-im-bearish-on-ethereum/) - `Natascha Che` - *Tascha Labs Blog* - **$3824.36**
 
 ### 2022
+- Aug 16 - [Ethereum is dead](https://www.youtube.com/watch?v=6NHJc6rfsUc) - `TechLead` - *Youtube* - **$1908,28**
 - Aug 19 - [Ethereum is already dead](https://twitter.com/AnselLindner/status/1560612838313381888) - `Ansel Lindner` - *Twitter* - **$1850,11**
+- Oct 05 - [Now That Ethereum is Dead, What’s the Next Big Thing?](https://medium.com/yardcouch-com/now-that-ethereum-is-dead-whats-the-next-big-thing-9e07f257459a) - `Isaiah McCall` - *Medium* - **$1363,24**
+
+### 2023
+- Sep 15 - [Ethereum is dying (Sad)](https://www.youtube.com/watch?v=AulxzTP0FV0) - `Matthew Kratter` - *Bitcoin University* - **$1626,98**
