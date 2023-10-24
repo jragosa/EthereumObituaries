@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **68** times so far.
+## Ethereum has died **69** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20230919.png)
 
@@ -110,3 +110,4 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 ### 2023
 - Sep 15 - [Ethereum is dying (Sad)](https://www.youtube.com/watch?v=AulxzTP0FV0) - `Matthew Kratter` - *Bitcoin University* - **$1626,98**
+- Oct 19 - [Ethereum is over. Plan accordingly](https://twitter.com/TuurDemeester/status/1715103756017131656?t=yOFmL3RdWqHbEYaHzwsASQ&s=19) - `Tuur Demeester` - *Twitter* - **$1554,20**
