@@ -111,4 +111,4 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 ### 2023
 - Sep 15 - [Ethereum is dying (Sad)](https://www.youtube.com/watch?v=AulxzTP0FV0) - `Matthew Kratter` - *Bitcoin University* - **$1626,98**
 - Oct 19 - [Ethereum is over. Plan accordingly](https://twitter.com/TuurDemeester/status/1715103756017131656?t=yOFmL3RdWqHbEYaHzwsASQ&s=19) - `Tuur Demeester` - *Twitter* - **$1554,20**
-- Nov 22 - [Ethereum will go to zero.](https://twitter.com/techleadhd/status/1727396100972359916) - `TechLead` - *Twitter* - **$2051,14**
+- Nov 22 - [Ethereum will go to zero.](https://imgur.com/a/GVouy8F) - `TechLead` - *Twitter* - **$2051,14**
