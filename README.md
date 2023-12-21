@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **71** times so far.
+## Ethereum has died **72** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20230919.png)
 
@@ -104,13 +104,14 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Dec 31 - [Why I'm bearish on Ethereum](https://taschalabs.com/why-im-bearish-on-ethereum/) - `Natascha Che` - *Tascha Labs Blog* - **$3824.36**
 
 ### 2022
-- Aug 16 - [Ethereum is dead](https://www.youtube.com/watch?v=6NHJc6rfsUc) - `TechLead` - *Youtube* - **$1908,28**
-- Aug 19 - [Ethereum is already dead](https://twitter.com/AnselLindner/status/1560612838313381888) - `Ansel Lindner` - *Twitter* - **$1850,11**
-- Oct 05 - [Now That Ethereum is Dead, What’s the Next Big Thing?](https://medium.com/yardcouch-com/now-that-ethereum-is-dead-whats-the-next-big-thing-9e07f257459a) - `Isaiah McCall` - *Medium* - **$1363,24**
+- Aug 16 - [Ethereum is dead](https://www.youtube.com/watch?v=6NHJc6rfsUc) - `TechLead` - *Youtube* - **$1908.28**
+- Aug 19 - [Ethereum is already dead](https://twitter.com/AnselLindner/status/1560612838313381888) - `Ansel Lindner` - *Twitter* - **$1850.11**
+- Oct 05 - [Now That Ethereum is Dead, What’s the Next Big Thing?](https://medium.com/yardcouch-com/now-that-ethereum-is-dead-whats-the-next-big-thing-9e07f257459a) - `Isaiah McCall` - *Medium* - **$1363.24**
 
 ### 2023
-- Sep 15 - [Ethereum is dying (Sad)](https://www.youtube.com/watch?v=AulxzTP0FV0) - `Matthew Kratter` - *Bitcoin University* - **$1626,98**
-- Oct 19 - [Ethereum is over. Plan accordingly](https://twitter.com/TuurDemeester/status/1715103756017131656?t=yOFmL3RdWqHbEYaHzwsASQ&s=19) - `Tuur Demeester` - *Twitter* - **$1554,20**
-- Nov 22 - [Ethereum will go to zero.](https://imgur.com/a/GVouy8F) - `TechLead` - *Twitter* - **$2051,14**
-- Dec 14 - [ETH may not even be a listed asset in 10 years](https://twitter.com/PeterLBrandt/status/1735433545458520178) - `Peter L. Brandt` - *Twitter* - **$2299,62**
+- Sep 15 - [Ethereum is dying (Sad)](https://www.youtube.com/watch?v=AulxzTP0FV0) - `Matthew Kratter` - *Bitcoin University* - **$1626.98**
+- Oct 19 - [Ethereum is over. Plan accordingly](https://twitter.com/TuurDemeester/status/1715103756017131656?t=yOFmL3RdWqHbEYaHzwsASQ&s=19) - `Tuur Demeester` - *Twitter* - **$1554.20**
+- Nov 22 - [Ethereum will go to zero.](https://imgur.com/a/GVouy8F) - `TechLead` - *Twitter* - **$2051.14**
+- Dec 14 - [ETH may not even be a listed asset in 10 years](https://twitter.com/PeterLBrandt/status/1735433545458520178) - `Peter L. Brandt` - *Twitter* - **$2299.62**
+- Dec 20 - [Ethereum isn't definitely going to make it](https://pbs.twimg.com/media/GBzVOgWWMAAeH1D?format=png&name=large) - `Blockworks` - *Blockworks Newsletter* - **$2208.90**
 
