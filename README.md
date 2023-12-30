@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **75** times so far.
+## Ethereum has died **76** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20230919.png)
 
@@ -117,4 +117,5 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 - Dec 14 - [ETH may not even be a listed asset in 10 years](https://twitter.com/PeterLBrandt/status/1735433545458520178) - `Peter L. Brandt` - *Twitter* - **$2299.62**
 - Dec 19 - [Ethereum isn't definitely going to make it](https://pbs.twimg.com/media/GBzVOgWWMAAeH1D?format=png&name=large) - `Blockworks` - *Blockworks Newsletter* - **$2236.56**
 - Dec 20 - [Remember ETH?](https://twitter.com/PeterMcCormack/status/1737544468272697700) - `Peter McCormack` - *Twitter* - **$2208.90**
+- Dec 26 - [Ethereum is not undervalued. It's dead technology.](https://imgur.com/a/hC3NOY0) - `TechLead` - *Twitter* - **$2227.68**
 
