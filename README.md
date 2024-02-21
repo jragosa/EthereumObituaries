@@ -6,7 +6,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **77** times so far.
+## Ethereum has died **78** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20241701.png)
 
@@ -122,3 +122,4 @@ Please take a quick look at the [contribution guidelines](https://github.com/jra
 
 ### 2024
 - Jan 12 - [Ethereum will go down as the Myspace of smart contract platforms](https://twitter.com/R89Capital/status/1745650563759718615) - `R89 Capital` - *Twitter* - **$2663.25**
+- Feb 21 - [Avoid ETH at all costs](https://twitter.com/dotkrueger/status/1760148208515428599) - `Fred Krueger` - *Twitter* - **$3003.84**
