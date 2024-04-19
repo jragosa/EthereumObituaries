@@ -6,7 +6,7 @@ Please look at the [contribution guidelines](https://github.com/jragosa/Ethereum
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **79** times so far.
+## Ethereum has died **82** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20241701.png)
 
@@ -124,3 +124,6 @@ Please look at the [contribution guidelines](https://github.com/jragosa/Ethereum
 - Jan 12 - [Ethereum will go down as the Myspace of smart contract platforms](https://twitter.com/R89Capital/status/1745650563759718615) - `R89 Capital` - *Twitter* - **$2663.25**
 - Feb 21 - [Avoid ETH at all costs](https://twitter.com/dotkrueger/status/1760148208515428599) - `Fred Krueger` - *Twitter* - **$3003.84**
 - Mar 18 - [Ethereum is slow expensive garbage & a thing of the past](https://twitter.com/R89Capital/status/1769731183791779934) - `R89 Capital` - *Twitter* - **$3626.89**
+- Mar 29 - [ETH has given up. It’s a LARP chain.](https://twitter.com/AutismCapital/status/1773794312515424731?t=1y3I6bkYNFgIahc0zfrZHw) - `Autism Capital` - *Twitter* - **$3562.50**
+- Mar 30 - [We may witness the end of ETH tonight.](https://twitter.com/1914ad/status/1773913248041144357?t=7Prbt1J6nQCIJ6UXw7_kDg) - `Justin Belcher` - *Twitter* - **$3512.28**
+- Apr 13 - [ETH story is dying.](https://twitter.com/dotkrueger/status/1778950579991240849) - `Fred Krueger` - *Twitter* - **$3214.22**
