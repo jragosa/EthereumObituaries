@@ -6,7 +6,7 @@ Please look at the [contribution guidelines](https://github.com/jragosa/Ethereum
 
 *If you see a link here that is wrong or broken, please submit a pull request to improve this file. Thank you!*
 
-## Ethereum has died **83** times so far.
+## Ethereum has died **84** times so far.
 
 ![The Many Deaths Of Ethereum](TheManyDeathsOfEthereum20241701.png)
 
@@ -128,4 +128,5 @@ Please look at the [contribution guidelines](https://github.com/jragosa/Ethereum
 - Mar 30 - [We may witness the end of ETH tonight.](https://twitter.com/1914ad/status/1773913248041144357?t=7Prbt1J6nQCIJ6UXw7_kDg) - `Justin Belcher` - *Twitter* - **$3512.28**
 - Apr 13 - [ETH story is dying.](https://twitter.com/dotkrueger/status/1778950579991240849) - `Fred Krueger` - *Twitter* - **$3214.22**
 - May 12 - [Ethereum looks like it's going to the grave.](https://x.com/jvs_btc/status/1789760531655450932?t=m_O9QbvMnBSEt8yccyxz1A&s=09) - `James Van Straten` - *Twitter* - **$2918.83**
+- Jul 28 - [Ethereum is going to bleed a slow & painful death.](https://x.com/Sawcruhteez/status/1817409497998172340?t=oH_k48nUcbRFUFOGeL_-SQ&s=09) - `The Weatherman` - *Twitter* - **$3255.98**
 
