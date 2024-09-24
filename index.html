@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Ethereum Obituaries">
+    <meta property="og:description" content="A list and chart of all the times Ethereum was declared dead.">
+    <meta property="og:image" content="https://ethereumobituaries.com/assets/ETH_Obituaries_title.png">
+    <meta property="og:url" content="https://ethereumobituaries.com">
+    <meta property="og:type" content="website">
+    <title>Ethereum Obituaries</title>
+    <link rel="stylesheet" href="styles/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+   
+    <div class="title-container">
+        <h1 class="website-title">Ethereum Obituaries</h1>
+    </div>
+    <div>
+        <svg height="0" width="0">
+            <defs>
+                <filter id="glow">
+                    <feGaussianBlur stdDeviation="2" result="coloredBlur"></feGaussianBlur>
+                    <feMerge>
+                        <feMergeNode in="coloredBlur"></feMergeNode>
+                        <feMergeNode in="SourceGraphic"></feMergeNode>
+                    </feMerge>
+                </filter>
+                <linearGradient id="timelineGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                    <stop offset="0%" style="stop-color:#FFA500;stop-opacity:1"/>
+                    <stop offset="100%" style="stop-color:#FF4500;stop-opacity:1"/>
+                </linearGradient>
+                <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                    <stop offset="0%" style="stop-color:#FFA500;stop-opacity:1"/>
+                    <stop offset="100%" style="stop-color:#FF4500;stop-opacity:1"/>
+                </linearGradient>
+            </defs>
+        </svg>
+    </div>
+    <div style="width: 80%; margin: auto;">
+        <div id="chart-title" class="chart-title">Ethereum has died <span class="obituaries-count"></span> so far.</div> <!-- Add Sentence Container -->
+        <div id="ethChart" style="height: 600px; width: 100%;"></div>
+        
+        <div class="add-obituary-button-container">
+            <a href="https://github.com/jragosa/EthereumObituaries/blob/master/Contribution.md" target="_blank" class="add-obituary-button">Add a missing obituary</a>
+        </div>
+        
+        <h2 class="timeline-title">Timeline</h2>
+        <!-- Timeline Title -->
+        <div id="timeline" class="timeline">
+            <div class="timeline-background-line"></div>
+        </div>
+    </div>
+    
+    <footer class="page-footer">
+        <div class="footer-content">
+            <a href="https://github.com/jragosa/EthereumObituaries" target="_blank" rel="noopener noreferrer">
+                <img src="assets/github-icon.svg" alt="GitHub" class="footer-icon">
+                GitHub Repo
+            </a>
+            <span class="footer-divider">|</span>
+            <span>
+                <img src="assets/twitter-icon.svg" alt="Twitter" class="footer-icon">
+                <a href="https://twitter.com/JimmyRagosa" target="_blank" rel="noopener noreferrer">Tinkered by Jrag.eth</a>
+            </span>
+        </div>
+    </footer>
+    
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    <script src="scripts/create-eth-chart.js"></script>
+    <script src="scripts/initialize-app.js"></script>
+    <script src="scripts/render-timeline.js"></script>
+
+</body>
+</html>

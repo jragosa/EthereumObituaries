@@ -1,0 +1,286 @@
+body {
+  background-color: #222222;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.title-container {
+  position: relative;
+  padding: 20px 0;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.title-container::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 125%;
+  height: 125%;
+  background-image: url('../assets/ETH_Obituaries_logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.6; /* Adjust this value to make the background image more or less visible */
+  z-index: -1;
+}
+
+/* Keep your existing .website-title CSS unchanged */
+.website-title {
+  text-align: center;
+  font-size: 48px;
+  font-weight: bold;
+  background: linear-gradient(to right, #FFA500, #FF4500);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+  position: relative;
+  z-index: 1;
+}
+
+.website-title {
+    text-align: center;
+    font-size: 90px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background: linear-gradient(to bottom, #FFA500, #FF4500);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+
+.highcharts-tooltip {
+  z-index: 9999;
+}
+
+.highcharts-tooltip text {
+  pointer-events: none;
+}
+
+/* Enhanced Tooltip Styles */
+.highcharts-tooltip-box {
+  background-color: #333333;
+  border-radius: 5px; 
+  padding: 10px;
+  border: 1px solid #444444;
+  color: white;
+  position: relative;
+}
+
+.highcharts-tooltip-date {
+  font-weight: bold;
+  color: #d7730b;
+  margin-bottom: 5px;
+}
+
+.highcharts-tooltip-statement a {
+  color: #1e90ff;
+  text-decoration: none;
+}
+
+.highcharts-tooltip-statement a:hover {
+  text-decoration: underline;
+}
+
+.highcharts-tooltip-author,
+.highcharts-tooltip-source {
+  font-style: italic;
+  color: #cccccc;
+}
+
+.highcharts-tooltip-source {
+  color: #888888;
+}
+
+.highcharts-tooltip-price {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: #cccccc;
+  font-weight: bold;
+}
+
+#ethChart {
+    margin-bottom: 50px; /* Add some bottom margin to the chart */
+}
+
+/* Background line style */
+.timeline-background-line {
+    position: absolute;
+    left: 30px; /* Adjust as needed */
+    width: 8px;
+    background: linear-gradient(to bottom, #FFA500, #FF4500);
+    filter: url(#glow);
+    border-radius: 4px;
+    pointer-events: none;
+    z-index: -1;
+    opacity: 0.9; /* Increased opacity for less transparency */
+    box-shadow: 0 0 4px rgba(255, 165, 0, 0.3); /* Reduced shadow effect */
+}
+
+/* Chart Title */
+.chart-title {
+  text-align: center;
+  font-size: 48px; /* Twice the previous size */
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.chart-title .obituaries-count {
+  background: linear-gradient(to bottom, #FFA500, #FF4500);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+  font-size: 48px; /* Match the size of the main text */
+}
+
+.add-obituary-button-container {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.add-obituary-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background: linear-gradient(to right, #FFA500, #FF4500);
+  color: white;
+  text-decoration: none;
+  border-radius: 25px;
+  font-weight: bold;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.add-obituary-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+
+.add-obituary-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 3px rgba(0,0,0,0.2);
+}
+
+/* Timeline styles */
+.timeline {
+  margin-top: 10px;
+  padding-left: 50px; /* Adjust padding to match line alignment */
+  position: relative;
+}
+
+.timeline-title {
+    text-align: center;
+    font-size: 48px;
+    background: linear-gradient(to bottom, #FFA500, #FF4500);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 60px; /* Increase this value to add more space */
+    margin-bottom: 20px;
+}
+
+.timeline-year {
+    font-weight: bold;
+    color: #FFA500;
+    margin-top: 40px;
+    font-size: 30px;
+    position: relative;
+    left: 30px; 
+    width: max-content; /* This ensures the year takes only the width it needs */
+}
+
+.year-count {
+  font-size: 20px; /* Slightly smaller than the year */
+  color: #cccccc; /* Grey color for the count */
+  margin-left: 10px; /* Space between year and count */
+}
+
+.timeline-entry {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #444444;
+  border-radius: 5px;
+  background-color: #333333;
+  position: relative;
+  margin-left: 30px; /* Align entries with year titles */
+  margin-top: 20px;
+}
+
+.timeline-date {
+  font-weight: bold;
+  color: #d7730b;
+  margin-bottom: 5px;
+}
+
+.timeline-statement a {
+  color: #1e90ff;
+  text-decoration: none;
+}
+
+.timeline-statement a:hover {
+  text-decoration: underline;
+}
+
+.author-source-container {
+  margin-top: 5px;
+  color: #cccccc;
+}
+
+.timeline-author {
+  font-style: italic;
+}
+
+.timeline-source {
+  color: #888888;
+}
+
+.timeline-price {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: #cccccc;
+  font-weight: bold;
+}
+
+.page-footer {
+  margin-top: 40px;
+  padding: 20px 0;
+  background-color: #222222;
+  color: #fff;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.footer-content a, .footer-content span {
+  color: #FFA500;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.footer-content a:hover {
+  text-decoration: underline;
+}
+
+.footer-icon {
+  width: 16px; /* Set a fixed width */
+  height: 16px; /* Set a fixed height */
+  margin-right: 8px; /* Consistent spacing after icons */
+}
+
+.footer-divider {
+  margin: 0 16px; /* Increase space around the divider */
+  color: #666;
+}
