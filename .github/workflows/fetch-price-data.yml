@@ -1,0 +1,31 @@
+name: Fetch Price Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This runs the job daily at midnight UTC
+  workflow_dispatch:  # This allows manual triggers
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Use Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'  # or whatever version you're using
+
+    - name: Install dependencies
+      run: npm ci  # This assumes you have a package.json file
+
+    - name: Run fetch price data script
+      run: node fetch-price-data.js
+
+    - name: Commit and push if it changed
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add .
+        git commit -m "Update price data" || exit 0
+        git push
