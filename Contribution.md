@@ -47,7 +47,7 @@ We welcome contributions to improve the Ethereum Obituaries website. Here's how 
    - `index.html` for structure changes
    - `styles/styles.css` for styling changes
    - `scripts/*.js` for functionality changes
-3. Test your changes locally by opening `index.html` in a web browser.
+3. Test your changes locally by running a server & opening `index.html` in a web browser.
 
 ### Types of Contributions
 - **Bug Fixes**: If you find a bug, please create an issue describing the problem and then submit a PR with the fix.
