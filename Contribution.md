@@ -18,7 +18,7 @@ We appreciate your interest in contributing to the Ethereum Obituaries project. 
 1. Fork the repository to your GitHub account.
 2. Clone your forked repository locally.
 3. Create a new branch for your contribution.
-4. Locate the `ethereum-obituaries.json` file in the project.
+4. Locate the `ethereum-obituaries.json` file in the `data`repository.
 5. Add a new entry to the JSON file in the following format:
    ```json
    {
