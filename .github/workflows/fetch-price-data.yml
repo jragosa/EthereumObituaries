@@ -1,37 +1,38 @@
-        name: Fetch Price Data
+                name: Fetch Price Data
 
-        on:
-          schedule:
-            - cron: '0 0 * * *'
-          workflow_dispatch:
+                on:
+                  schedule:
+                    - cron: '0 0 * * *'
+                  workflow_dispatch:
 
-        jobs:
-          fetch-data:
-            runs-on: ubuntu-latest
-            steps:
-            - uses: actions/checkout@v2
+                jobs:
+                  fetch-data:
+                    runs-on: ubuntu-latest
+                    steps:
+                    - uses: actions/checkout@v2
 
-            - name: Use Node.js
-              uses: actions/setup-node@v2
-              with:
-                node-version: '18'  # or whichever version you're using
+                    - name: Use Node.js
+                      uses: actions/setup-node@v2
+                      with:
+                        node-version: '18'
 
-            - name: Debug - List directory contents
-              run: ls -la
+                    - name: Debug - List directory contents
+                      run: |
+                        echo "Root directory:"
+                        ls -la
+                        echo "Scripts directory (if it exists):"
+                        ls -la scripts || echo "No scripts directory found"
 
-            - name: Debug - Display package.json content
-              run: cat package.json
+                    - name: Install dependencies
+                      run: npm ci
 
-            - name: Install dependencies
-              run: npm ci
+                    - name: Run fetch price data script
+                      run: node scripts/fetch-price-data.js
 
-            - name: Run fetch price data script
-              run: node fetch-price-data.js
-
-            - name: Commit and push if it changed
-              run: |
-                git config user.name github-actions
-                git config user.email github-actions@github.com
-                git add .
-                git commit -m "Update price data" || exit 0
-                git push
+                    - name: Commit and push if it changed
+                      run: |
+                        git config user.name github-actions
+                        git config user.email github-actions@github.com
+                        git add .
+                        git commit -m "Update price data" || exit 0
+                        git push
