@@ -25,14 +25,7 @@ function createChart(priceData, obituariesData) {
             events: {
                 load: function () {
                     
-                        this.renderer.image('assets/ETH_Obituaries_logo.png', 
-                            this.plotLeft + this.plotWidth / 2 - 250, // Center horizontally
-                            this.plotTop + this.plotHeight / 2 - 250, // Center vertically
-                            500, // Width of the image
-                            500  // Height of the image
-                        ).css({
-                            opacity: 0.1 // Adjust this value for desired opacity
-                        }).add();
+                        
                     
                     this.series[0].graph.attr({
                         filter: 'url(#glow)'
