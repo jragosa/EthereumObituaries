@@ -1,611 +1,785 @@
-[
-  {
-    "date": "2015-08-10",
-    "statement": "Sidechains: the coming death of altcoins and ethereum.",
-    "author": "Adam Back",
-    "source": "Let's Talk Bitcoin",
-    "link": "https://web.archive.org/web/20160429145406/https://letstalkbitcoin.s3.amazonaws.com/podcasts%2Fe99-sidechain-innovation.mp3"
-  },
-  {
-    "date": "2015-08-10",
-    "statement": "Why Ethereum is dead in the water.",
-    "author": "Rabbiter",
-    "source": "Bitcointalk",
-    "link": "https://bitcointalk.org/index.php?topic=824220.10"
-  },
-  {
-    "date": "2015-12-25",
-    "statement": "Maybe it is too late to save Ethereum",
-    "author": "Digitsu",
-    "source": "Wall Street Technologist",
-    "link": "https://web.archive.org/web/20200815171312/https://www.wallstreettechnologist.com/?p=771"
-  },
-  {
-    "date": "2016-03-09",
-    "statement": "Why your Ethereum project will most likely fail",
-    "author": "Bedeho Mender",
-    "source": "Medium",
-    "link": "https://web.archive.org/web/20220929175112/https://medium.com/@bedeho/why-your-ethereum-project-will-most-likely-fail-d14b6d8f1c7c#.2ncy6qz5l"
-  },
-  {
-    "date": "2016-03-28",
-    "statement": "Ethereum Can't Work, it's 100% Hype",
-    "author": "Chris DeRose",
-    "source": "NewsBTC",
-    "link": "https://web.archive.org/web/20201108205935/https://www.newsbtc.com/news/bitcoin/counterparty-founder-ethereum-cant-work-100-hype/"
-  },
-  {
-    "date": "2016-06-17",
-    "statement": "The Fundamental Problems with Ethereum",
-    "author": "Beautyon",
-    "source": "Medium",
-    "link": "https://medium.com/@beautyon_/the-fundamental-problems-with-ethereum-408c420849f0#.9fc7v8qt3"
-  },
-  {
-    "date": "2016-06-18",
-    "statement": "R.I.P Ethereum - The Pre-Mined ScamCoin is dead",
-    "author": "Portalufonet",
-    "source": "Bitcointalk",
-    "link": "https://bitcointalk.org/index.php?topic=1516545.0"
-  },
-  {
-    "date": "2016-06-20",
-    "statement": "Ethereum is Doomed",
-    "author": "Daniel Krawisz",
-    "source": "Nakamoto Institute",
-    "link": "http://nakamotoinstitute.org/mempool/ethereum-is-doomed/#selection-323.271-327.310"
-  },
-  {
-    "date": "2016-06-21",
-    "statement": "Ethereum fights for its survival after $50 million heist",
-    "author": "Dan Goodin",
-    "source": "Ars Technica",
-    "link": "http://arstechnica.com/security/2016/06/bitcoin-rival-ethereum-fights-for-its-survival-after-50-million-heist/"
-  },
-  {
-    "date": "2016-07-17",
-    "statement": "Ether/DAO Hack: Is Ethereum Dead?",
-    "author": "Michael",
-    "source": "CryptoCrooks",
-    "link": "http://cryptocrooks.com/dao-ether-hack-ethereum-dead/#.W4Qnoej-g2w"
-  },
-  {
-    "date": "2016-09-04",
-    "statement": "The Bizarre Fallout of Ethereum's Epic Fail",
-    "author": "David Z. Morris",
-    "source": "Fortune",
-    "link": "http://fortune.com/2016/09/04/ethereum-fall-out/"
-  },
-  {
-    "date": "2016-09-07",
-    "statement": "How Bitcoin Succeeded Where Ethereum Failed",
-    "author": "Kyle Torpey",
-    "source": "CoinJournal",
-    "link": "http://coinjournal.net/bitcoin-succeeded-ethereum-failed/"
-  },
-  {
-    "date": "2016-10-05",
-    "statement": "Why I'm short Ethereum (and long Bitcoin)",
-    "author": "Tuur Demeester",
-    "source": "Medium",
-    "link": "https://medium.com/@tuurdemeester/why-im-short-ethereum-and-long-bitcoin-aee5b1c198fd#.kwfrait73"
-  },
-  {
-    "date": "2016-12-04",
-    "statement": "ETH is dead (from an investor perspective)",
-    "author": "Barry Silbert",
-    "source": "ETC Slack",
-    "link": "https://imgur.com/a/HFMBk#I1ZtMxs"
-  },
-  {
-    "date": "2016-12-06",
-    "statement": "Ethereum In Free Fall As Floor Beneath It Drops",
-    "author": "Shivdeep Dhaliwal",
-    "source": "Cointelegraph",
-    "link": "https://cointelegraph.com/news/ethereum-in-free-fall-as-floor-beneath-it-drops"
-  },
-  {
-    "date": "2017-06-01",
-    "statement": "Why Will Ethereum Fail?",
-    "author": "Joseph",
-    "source": "Steem",
-    "link": "https://steemit.com/ethereum/@joseph/why-will-ethereum-fail#@thecryptofiend/re-joseph-why-will-ethereum-fail-20170601t212114290z"
-  },
-  {
-    "date": "2017-06-27",
-    "statement": "Top 5 Reasons Why Ethereum Will Fail — Maybe",
-    "author": "Evan Faggart",
-    "source": "Bitsonline",
-    "link": "https://web.archive.org/web/20230203141955/https://bitsonline.com/top-5-reasons-ethereum-fail/"
-  },
-  {
-    "date": "2017-09-28",
-    "statement": "Is Ethereum Doomed To Fail?",
-    "author": "Portushead",
-    "source": "Digital Marketing Case Studies",
-    "link": "http://www.digitalmarketingcasestudies.com/2017/09/28/ethereum-doomed-fail/"
-  },
-  {
-    "date": "2017-11-10",
-    "statement": "ETH (ETHEREUM) IS DEAD",
-    "author": "Juniusmaltby",
-    "source": "Steem",
-    "link": "https://steemit.com/bitcoin/@juniusmaltby/eth-ethereum-is-dead"
-  },
-  {
-    "date": "2017-11-16",
-    "statement": "The Neverending Ethereum Disaster",
-    "author": "Robert McGrath",
-    "source": "Robert McGrath's blog",
-    "link": "https://robertmcgrath.wordpress.com/2017/11/16/the-neverending-ethereum-disaster/"
-  },
-  {
-    "date": "2017-11-20",
-    "statement": "Why the Ether Cryptocurrency will Fail in 2018",
-    "author": "Techno Rajji",
-    "source": "OracleTimes",
-    "link": "https://web.archive.org/web/20240523224403/https://cryptogazette.com/ethereum-is-doomed-why-the-ether-cryptocurrency-will-fail-in-2018/"
-  },
-  {
-    "date": "2017-11-26",
-    "statement": "Parity Hack Shows the Ethereum Ecosystem Is Flawed in Big Ways",
-    "author": "JP Buntinx",
-    "source": "NullTX",
-    "link": "https://web.archive.org/web/20180710004058/https://nulltx.com/parity-hack-shows-the-ethereum-ecosystem-is-flawed-in-big-ways/"
-  },
-  {
-    "date": "2017-12-04",
-    "statement": "CryptoKitties Is Totally Wrecking the Ethereum Network",
-    "author": "Tyson O'Ham",
-    "source": "Bitsonline",
-    "link": "https://web.archive.org/web/20230203124317/https://bitsonline.com/cryptokitties-wrecking-ethereum/"
-  },
-  {
-    "date": "2017-12-11",
-    "statement": "Reasons Why Ethereum Could Be Doomed",
-    "author": "Brianna Browning",
-    "source": "GlobalCoinReport",
-    "link": "https://globalcoinreport.com/reasons-why-ethereum-could-be-doomed/"
-  },
-  {
-    "date": "2018-03-18",
-    "statement": "Ethereum price drop today: Is ethereum dead?",
-    "author": "Vickiie Oliphant",
-    "source": "Daily Express",
-    "link": "https://www.express.co.uk/finance/city/932168/Ethereum-price-drop-today-is-ethereum-dead-will-cryptocurrency-go-back-up"
-  },
-  {
-    "date": "2018-05-02",
-    "statement": "Can Ethereum (ETH) Survive Regulatory Scrutiny?",
-    "author": "Fakhan",
-    "source": "Cryptodaily",
-    "link": "https://cryptodaily.co.uk/2018/05/can-ethereum-eth-survive-regulatory-scrutiny/"
-  },
-  {
-    "date": "2018-05-15",
-    "statement": "Ethereum is officially dead",
-    "author": "Straimrpl777",
-    "source": "Bitcointalk",
-    "link": "https://bitcointalk.org/index.php?topic=3299849.720"
-  },
-  {
-    "date": "2018-05-23",
-    "statement": "Ethereum size has exceeded 1TB, and yes, it's an issue",
-    "author": "StopAndDecrypt",
-    "source": "Hackernoon",
-    "link": "https://hackernoon.com/the-ethereum-blockchain-size-has-exceeded-1tb-and-yes-its-an-issue-2b650b5f4f62"
-  },
-  {
-    "date": "2018-06-09",
-    "statement": "Everything about EOS, the 'Ethereum Killer'",
-    "author": "Thijs Maas",
-    "source": "Hackernoon",
-    "link": "https://hackernoon.com/everything-they-dont-want-you-to-know-about-eos-the-ethereum-killer-9939c43aa2df"
-  },
-  {
-    "date": "2018-07-11",
-    "statement": "What if Ethereum is Just an Evolutionary Stepping Stone?",
-    "author": "Jon Creasy",
-    "source": "Hackernoon",
-    "link": "https://hackernoon.com/what-if-ethereum-is-just-an-evolutionary-stepping-stone-450a710f46c"
-  },
-  {
-    "date": "2018-07-16",
-    "statement": "Ether Bearish Thesis: The \"Flippening\" of Market Irrationality",
-    "author": "Tetras Capital",
-    "source": "Medium",
-    "link": "https://medium.com/@tetrascapital/ether-eth-bearish-thesis-the-flippening-of-market-irrationality-8633e70ab498"
-  },
-  {
-    "date": "2018-08-12",
-    "statement": "The Ethereum death spiral is just beginning",
-    "author": "Paul Everton",
-    "source": "Twitter",
-    "link": "https://twitter.com/realpauleverton/status/1028699619763531776"
-  },
-  {
-    "date": "2018-08-17",
-    "statement": "Is Ethereum (ETH) dominance at stake?",
-    "author": "Nick Mwenda",
-    "source": "Cryptoglobalist",
-    "link": "https://cryptoglobalist.com/2018/08/17/last-winner-game-jams-ethereum-network-is-ethereum-eth-dominance-at-stake/"
-  },
-  {
-    "date": "2018-08-20",
-    "statement": "Ether, A Double Digit Shitcoin",
-    "author": "Arthur Hayes",
-    "source": "BitMex Blog",
-    "link": "https://blog.bitmex.com/ether-a-double-digit-shitcoin/"
-  },
-  {
-    "date": "2018-08-24",
-    "statement": "Ethereum is a dead coin walking.",
-    "author": "Ansel Lindner",
-    "source": "Twitter",
-    "link": "https://twitter.com/AnselLindner/status/1033120662121054213"
-  },
-  {
-    "date": "2018-08-24",
-    "statement": "It's the end of Ethereum.",
-    "author": "Dan Taylor",
-    "source": "Coingeek",
-    "link": "https://coingeek.com/the-attack-continues-vitalik-buterin-wants-bch-community-to-ostracize-craig-wright/"
-  },
-  {
-    "date": "2018-08-30",
-    "statement": "Ethereum: A broken engine?",
-    "author": "Taurus Group SA",
-    "source": "Taurus Group SA",
-    "link": "https://www.taurusgroup.ch/ethereum-a-broken-engine/"
-  },
-  {
-    "date": "2018-09-02",
-    "statement": "ETH Futures: Bad for Ethereum, Good for Bitcoin, says Tom Lee",
-    "author": "Tom Lee",
-    "source": "Bitcoinist",
-    "link": "https://bitcoinist.com/eth-futures-ethereum-bitcoin-tom-lee/"
-  },
-  {
-    "date": "2018-09-02",
-    "statement": "The Collapse of ETH is Inevitable",
-    "author": "Jeremy Rubin",
-    "source": "Techcrunch",
-    "link": "https://techcrunch.com/2018/09/02/the-collapse-of-eth-is-inevitable/"
-  },
-  {
-    "date": "2018-09-04",
-    "statement": "Ethereum's Demise as a Cryptocurrency is Foreseeable",
-    "author": "Michael K. Spencer",
-    "source": "Medium",
-    "link": "https://medium.com/futuresin/ethereums-demise-as-a-cryptocurrency-is-foreseeable-d9240dcc061e"
-  },
-  {
-    "date": "2018-09-10",
-    "statement": "The Death of Ethereum",
-    "author": "Mujeeb Lawal",
-    "source": "LinkedIn",
-    "link": "https://www.linkedin.com/pulse/death-ethereum-mujeeb-lawal/"
-  },
-  {
-    "date": "2018-12-10",
-    "statement": "Hard Fork Could Spell Doomsday for Ethereum",
-    "author": "Zachary Mashiach",
-    "source": "Crypto.IQ",
-    "link": "https://cryptoiq.co/falling-prices-increasing-regulation-causing-crypto-hedge-funds-to-shut-down/"
-  },
-  {
-    "date": "2018-12-17",
-    "statement": "The Fall of Ethereum",
-    "author": "Michael K. Spencer",
-    "source": "Medium",
-    "link": "https://medium.com/futuresin/the-fall-of-ethereum-15c4b64467d8"
-  },
-  {
-    "date": "2018-12-25",
-    "statement": "ICOs and Ethereum Are Dead",
-    "author": "Digital Marketplace",
-    "source": "Digital Market Today",
-    "link": "https://digitalmarkettoday.com/4-words-in-2018-icos-and-ethereum-are-dead/"
-  },
-  {
-    "date": "2019-01-17",
-    "statement": "The Fall of Ethereum",
-    "author": "Editorial Staff",
-    "source": "Traders Magazine",
-    "link": "https://www.tradersmagazine.com/news/the-fall-of-ethereum/"
-  },
-  {
-    "date": "2019-03-28",
-    "statement": "Ethereum Is Losing Its Luster And Its Market Share",
-    "author": "Olga Kharif",
-    "source": "Bloomberg",
-    "link": "https://www.bloomberg.com/news/articles/2019-03-28/better-version-of-bitcoin-loses-luster-as-apps-move-elsewhere"
-  },
-  {
-    "date": "2019-04-03",
-    "statement": "Is Ethereum's market share at risk from EOS and TRON?",
-    "author": "Priyeshu Garg",
-    "source": "CryptoSlate",
-    "link": "https://cryptoslate.com/is-ethereums-market-share-at-risk-from-eos-and-tron/"
-  },
-  {
-    "date": "2019-04-05",
-    "statement": "Ethereum: Running Out of Gas",
-    "author": "Rustam Botashev & Mikhail Butov",
-    "source": "Medium",
-    "link": "https://medium.com/@HASHCIB/ethereum-running-out-of-gas-697b49b07e73"
-  },
-  {
-    "date": "2019-06-07",
-    "statement": "Ethereum is among crypto's deadwood",
-    "author": "Aaron Brown",
-    "source": "Bloomberg",
-    "link": "https://www.bloomberg.com/opinion/articles/2019-06-07/cryptocurrency-winners-are-starting-to-emerge"
-  },
-  {
-    "date": "2019-07-07",
-    "statement": "The Ethereum Killer Is Already Here",
-    "author": "Greg Thompson",
-    "source": "CCN",
-    "link": "https://www.ccn.com/op-ed/ethereum-killer-is-binance/2019/07/07/"
-  },
-  {
-    "date": "2019-08-12",
-    "statement": "Chances of ETH ever getting over $500 again are virtually zero",
-    "author": "Max Keiser",
-    "source": "Twitter",
-    "link": "https://twitter.com/maxkeiser/status/1160897404809424898"
-  },
-  {
-    "date": "2019-10-21",
-    "statement": "When Will Bitcoin Sidechains Send Ethereum Price To Zero?",
-    "author": "Kyle Torpey",
-    "source": "Forbes",
-    "link": "https://www.forbes.com/sites/ktorpey/2019/10/21/when-will-bitcoin-sidechains-send-ethereum-ripple-and-other-crypto-prices-to-zero/amp/?__twitter_impression=true"
-  },
-  {
-    "date": "2019-11-27",
-    "statement": "By 2021 you'll have forgotten ethereum was a thing.",
-    "author": "Jeremy Ross",
-    "source": "Twitter",
-    "link": "https://twitter.com/jebus911/status/1199540720496984065?s=09"
-  },
-  {
-    "date": "2020-02-25",
-    "statement": "It's \"Game Over\" for Ethereum",
-    "author": "Cole Petersen",
-    "source": "NewsBTC",
-    "link": "https://www.newsbtc.com/news/ethereum/its-game-over-for-ethereum-as-violent-selloff-leads-it-below-do-or-die-level/"
-  },
-  {
-    "date": "2020-06-12",
-    "statement": "ETH is a poor store of value & a terrible crypto",
-    "author": "Steven McClurg & Leah Wald",
-    "source": "Medium",
-    "link": "https://medium.com/@ExponentialIM/ether-and-bitcoin-are-not-the-same-e5932b510821"
-  },
-  {
-    "date": "2020-07-16",
-    "statement": "Death of Fat Protocol Thesis Is Bearish for Ethereum",
-    "author": "Ashwath Balakrishnan",
-    "source": "Cryptobriefing",
-    "link": "https://cryptobriefing.com/death-fat-protocol-thesis-is-bearish-ethereum/"
-  },
-  {
-    "date": "2020-09-07",
-    "statement": "Ethereum is a dead chain limping",
-    "author": "Mohammad Jaber",
-    "source": "Coingeek",
-    "link": "https://coingeek.com/ethereum-is-a-dead-chain-limping/"
-  },
-  {
-    "date": "2020-09-11",
-    "statement": "\"Binance Chain\" launched & it's a drop-in replacement for ETH.",
-    "author": "Riccardo Spagni",
-    "source": "Twitter",
-    "link": "https://twitter.com/fluffypony/status/1304379141903577089"
-  },
-  {
-    "date": "2021-03-13",
-    "statement": "Rise of Layer 2s Spells End for Ethereum",
-    "author": "Eden Yago",
-    "source": "Coindesk",
-    "link": "https://www.coindesk.com/rise-of-layer-2s-altcoins-like-ethereum"
-  },
-  {
-    "date": "2021-03-25",
-    "statement": "Death of ETH Party!",
-    "author": "BTC Maxi gang",
-    "source": "Clubhouse",
-    "link": "https://twitter.com/blknoiz06/status/1374820170233962505/photo/1"
-  },
-  {
-    "date": "2021-05-20",
-    "statement": "Bitcoin and Ethereum Are Dead",
-    "author": "Jared A. Brock",
-    "source": "Medium",
-    "link": "https://medium.com/personal-finance/bitcoin-and-ethereum-are-dead-and-their-honest-investors-know-it-a36ee97df89d"
-  },
-  {
-    "date": "2021-07-31",
-    "statement": "Death of ETH Party! #2",
-    "author": "BTC Maxi gang",
-    "source": "Clubhouse",
-    "link": "https://twitter.com/bneiluj/status/1415056273935056898"
-  },
-  {
-    "date": "2021-10-06",
-    "statement": "Ethereum: Death By 1000 Paper Cuts",
-    "author": "TheValueTrend",
-    "source": "Seeking Alpha",
-    "link": "https://seekingalpha.com/article/4458739-ethereum-death-by-1000-paper-cuts"
-  },
-  {
-    "date": "2021-11-21",
-    "statement": "Yes I have abandoned Ethereum",
-    "author": "Zhu Su",
-    "source": "Twitter",
-    "link": "https://twitter.com/zhusu/status/1462216210116853762"
-  },
-  {
-    "date": "2021-12-31",
-    "statement": "Why I'm bearish on Ethereum",
-    "author": "Natascha Che",
-    "source": "Tascha Labs Blog",
-    "link": "https://taschalabs.com/why-im-bearish-on-ethereum/"
-  },
-  {
-    "date": "2022-08-16",
-    "statement": "Ethereum is dead",
-    "author": "TechLead",
-    "source": "Youtube",
-    "link": "https://www.youtube.com/watch?v=6NHJc6rfsUc"
-  },
-  {
-    "date": "2022-08-19",
-    "statement": "Ethereum is already dead",
-    "author": "Ansel Lindner",
-    "source": "Twitter",
-    "link": "https://twitter.com/AnselLindner/status/1560612838313381888"
-  },
-  {
-    "date": "2022-10-05",
-    "statement": "Now That Ethereum is Dead, What's the Next Big Thing?",
-    "author": "Isaiah McCall",
-    "source": "Medium",
-    "link": "https://medium.com/yardcouch-com/now-that-ethereum-is-dead-whats-the-next-big-thing-9e07f257459a"
-  },
-  {
-    "date": "2023-09-15",
-    "statement": "Ethereum is dying (Sad)",
-    "author": "Matthew Kratter",
-    "source": "Bitcoin University",
-    "link": "https://www.youtube.com/watch?v=AulxzTP0FV0"
-  },
-  {
-    "date": "2023-10-19",
-    "statement": "Ethereum is over. Plan accordingly",
-    "author": "Tuur Demeester",
-    "source": "Twitter",
-    "link": "https://twitter.com/TuurDemeester/status/1715103756017131656?t=yOFmL3RdWqHbEYaHzwsASQ&s=19"
-  },
-  {
+  [
+    {
+      "date": "2015-08-10",
+      "statement": "Sidechains: the coming death of altcoins and ethereum.",
+      "author": "Adam Back",
+      "source": "Let's Talk Bitcoin",
+      "link": "https://web.archive.org/web/20160429145406/https://letstalkbitcoin.s3.amazonaws.com/podcasts%2Fe99-sidechain-innovation.mp3",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2015-08-10",
+      "statement": "Why Ethereum is dead in the water.",
+      "author": "Rabbiter",
+      "source": "Bitcointalk",
+      "link": "https://bitcointalk.org/index.php?topic=824220.10",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2015-12-25",
+      "statement": "Maybe it is too late to save Ethereum",
+      "author": "Digitsu",
+      "source": "Wall Street Technologist",
+      "link": "https://web.archive.org/web/20200815171312/https://www.wallstreettechnologist.com/?p=771",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2016-03-09",
+      "statement": "Why your Ethereum project will most likely fail",
+      "author": "Bedeho Mender",
+      "source": "Medium",
+      "link": "https://web.archive.org/web/20220929175112/https://medium.com/@bedeho/why-your-ethereum-project-will-most-likely-fail-d14b6d8f1c7c#.2ncy6qz5l",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2016-03-28",
+      "statement": "Ethereum Can't Work, it's 100% Hype",
+      "author": "Chris DeRose",
+      "source": "NewsBTC",
+      "link": "https://web.archive.org/web/20201108205935/https://www.newsbtc.com/news/bitcoin/counterparty-founder-ethereum-cant-work-100-hype/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2016-06-17",
+      "statement": "The Fundamental Problems with Ethereum",
+      "author": "Beautyon",
+      "source": "Medium",
+      "link": "https://medium.com/@beautyon_/the-fundamental-problems-with-ethereum-408c420849f0#.9fc7v8qt3",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2016-06-18",
+      "statement": "R.I.P Ethereum - The Pre-Mined ScamCoin is dead",
+      "author": "Portalufonet",
+      "source": "Bitcointalk",
+      "link": "https://bitcointalk.org/index.php?topic=1516545.0",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2016-06-20",
+      "statement": "Ethereum is Doomed",
+      "author": "Daniel Krawisz",
+      "source": "Nakamoto Institute",
+      "link": "http://nakamotoinstitute.org/mempool/ethereum-is-doomed/#selection-323.271-327.310",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2016-06-21",
+      "statement": "Ethereum fights for its survival after $50 million heist",
+      "author": "Dan Goodin",
+      "source": "Ars Technica",
+      "link": "http://arstechnica.com/security/2016/06/bitcoin-rival-ethereum-fights-for-its-survival-after-50-million-heist/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2016-07-17",
+      "statement": "Ether/DAO Hack: Is Ethereum Dead?",
+      "author": "Michael",
+      "source": "CryptoCrooks",
+      "link": "http://cryptocrooks.com/dao-ether-hack-ethereum-dead/#.W4Qnoej-g2w",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2016-09-04",
+      "statement": "The Bizarre Fallout of Ethereum's Epic Fail",
+      "author": "David Z. Morris",
+      "source": "Fortune",
+      "link": "http://fortune.com/2016/09/04/ethereum-fall-out/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2016-09-07",
+      "statement": "How Bitcoin Succeeded Where Ethereum Failed",
+      "author": "Kyle Torpey",
+      "source": "CoinJournal",
+      "link": "http://coinjournal.net/bitcoin-succeeded-ethereum-failed/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2016-10-05",
+      "statement": "Why I'm short Ethereum (and long Bitcoin)",
+      "author": "Tuur Demeester",
+      "source": "Medium",
+      "link": "https://medium.com/@tuurdemeester/why-im-short-ethereum-and-long-bitcoin-aee5b1c198fd#.kwfrait73",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2016-12-04",
+      "statement": "ETH is dead (from an investor perspective)",
+      "author": "Barry Silbert",
+      "source": "ETC Slack",
+      "link": "https://imgur.com/a/HFMBk#I1ZtMxs",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2016-12-06",
+      "statement": "Ethereum In Free Fall As Floor Beneath It Drops",
+      "author": "Shivdeep Dhaliwal",
+      "source": "Cointelegraph",
+      "link": "https://cointelegraph.com/news/ethereum-in-free-fall-as-floor-beneath-it-drops",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2017-06-01",
+      "statement": "Why Will Ethereum Fail?",
+      "author": "Joseph",
+      "source": "Steem",
+      "link": "https://steemit.com/ethereum/@joseph/why-will-ethereum-fail#@thecryptofiend/re-joseph-why-will-ethereum-fail-20170601t212114290z",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2017-06-27",
+      "statement": "Top 5 Reasons Why Ethereum Will Fail — Maybe",
+      "author": "Evan Faggart",
+      "source": "Bitsonline",
+      "link": "https://web.archive.org/web/20230203141955/https://bitsonline.com/top-5-reasons-ethereum-fail/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2017-09-28",
+      "statement": "Is Ethereum Doomed To Fail?",
+      "author": "Portushead",
+      "source": "Digital Marketing Case Studies",
+      "link": "http://www.digitalmarketingcasestudies.com/2017/09/28/ethereum-doomed-fail/",
+      "archivalLink": "",
+      "isWebpageUp": false
+    },
+    {
+      "date": "2017-11-10",
+      "statement": "ETH (ETHEREUM) IS DEAD",
+      "author": "Juniusmaltby",
+      "source": "Steem",
+      "link": "https://steemit.com/bitcoin/@juniusmaltby/eth-ethereum-is-dead",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2017-11-16",
+      "statement": "The Neverending Ethereum Disaster",
+      "author": "Robert McGrath",
+      "source": "Robert McGrath's blog",
+      "link": "https://robertmcgrath.wordpress.com/2017/11/16/the-neverending-ethereum-disaster/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2017-11-20",
+      "statement": "Why the Ether Cryptocurrency will Fail in 2018",
+      "author": "Techno Rajji",
+      "source": "OracleTimes",
+      "link": "https://web.archive.org/web/20240523224403/https://cryptogazette.com/ethereum-is-doomed-why-the-ether-cryptocurrency-will-fail-in-2018/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2017-11-26",
+      "statement": "Parity Hack Shows the Ethereum Ecosystem Is Flawed in Big Ways",
+      "author": "JP Buntinx",
+      "source": "NullTX",
+      "link": "https://web.archive.org/web/20180710004058/https://nulltx.com/parity-hack-shows-the-ethereum-ecosystem-is-flawed-in-big-ways/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2017-12-04",
+      "statement": "CryptoKitties Is Totally Wrecking the Ethereum Network",
+      "author": "Tyson O'Ham",
+      "source": "Bitsonline",
+      "link": "https://web.archive.org/web/20230203124317/https://bitsonline.com/cryptokitties-wrecking-ethereum/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2017-12-11",
+      "statement": "Reasons Why Ethereum Could Be Doomed",
+      "author": "Brianna Browning",
+      "source": "GlobalCoinReport",
+      "link": "https://globalcoinreport.com/reasons-why-ethereum-could-be-doomed/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2018-03-18",
+      "statement": "Ethereum price drop today: Is ethereum dead?",
+      "author": "Vickiie Oliphant",
+      "source": "Daily Express",
+      "link": "https://www.express.co.uk/finance/city/932168/Ethereum-price-drop-today-is-ethereum-dead-will-cryptocurrency-go-back-up",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2018-05-02",
+      "statement": "Can Ethereum (ETH) Survive Regulatory Scrutiny?",
+      "author": "Fakhan",
+      "source": "Cryptodaily",
+      "link": "https://web.archive.org/web/20221001233919/https://cryptodaily.co.uk/2018/05/can-ethereum-eth-survive-regulatory-scrutiny",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2018-05-15",
+      "statement": "Ethereum is officially dead",
+      "author": "Straimrpl777",
+      "source": "Bitcointalk",
+      "link": "https://bitcointalk.org/index.php?topic=3299849.720",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2018-05-23",
+      "statement": "Ethereum size has exceeded 1TB, and yes, it's an issue",
+      "author": "StopAndDecrypt",
+      "source": "Hackernoon",
+      "link": "https://hackernoon.com/the-ethereum-blockchain-size-has-exceeded-1tb-and-yes-its-an-issue-2b650b5f4f62",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2018-06-09",
+      "statement": "Everything about EOS, the 'Ethereum Killer'",
+      "author": "Thijs Maas",
+      "source": "Hackernoon",
+      "link": "https://hackernoon.com/everything-they-dont-want-you-to-know-about-eos-the-ethereum-killer-9939c43aa2df",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2018-07-11",
+      "statement": "What if Ethereum is Just an Evolutionary Stepping Stone?",
+      "author": "Jon Creasy",
+      "source": "Hackernoon",
+      "link": "https://hackernoon.com/what-if-ethereum-is-just-an-evolutionary-stepping-stone-450a710f46c",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2018-07-16",
+      "statement": "Ether Bearish Thesis: The \"Flippening\" of Market Irrationality",
+      "author": "Tetras Capital",
+      "source": "Medium",
+      "link": "https://medium.com/@tetrascapital/ether-eth-bearish-thesis-the-flippening-of-market-irrationality-8633e70ab498",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2018-08-12",
+      "statement": "The Ethereum death spiral is just beginning",
+      "author": "Paul Everton",
+      "source": "Twitter",
+      "link": "https://twitter.com/realpauleverton/status/1028699619763531776",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2018-08-17",
+      "statement": "Is Ethereum (ETH) dominance at stake?",
+      "author": "Nick Mwenda",
+      "source": "Cryptoglobalist",
+      "link": "https://cryptoglobalist.com/2018/08/17/last-winner-game-jams-ethereum-network-is-ethereum-eth-dominance-at-stake/",
+      "archivalLink": "",
+      "isWebpageUp": false
+    },
+    {
+      "date": "2018-08-20",
+      "statement": "Ether, A Double Digit Shitcoin",
+      "author": "Arthur Hayes",
+      "source": "BitMex Blog",
+      "link": "https://blog.bitmex.com/ether-a-double-digit-shitcoin/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2018-08-24",
+      "statement": "Ethereum is a dead coin walking.",
+      "author": "Ansel Lindner",
+      "source": "Twitter",
+      "link": "https://twitter.com/AnselLindner/status/1033120662121054213",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2018-08-24",
+      "statement": "It's the end of Ethereum.",
+      "author": "Dan Taylor",
+      "source": "Coingeek",
+      "link": "https://coingeek.com/the-attack-continues-vitalik-buterin-wants-bch-community-to-ostracize-craig-wright/",
+      "archivalLink": "",
+      "isWebpageUp": false
+    },
+    {
+      "date": "2018-08-30",
+      "statement": "Ethereum: A broken engine?",
+      "author": "Taurus Group SA",
+      "source": "Taurus Group SA",
+      "link": "https://www.taurusgroup.ch/ethereum-a-broken-engine/",
+      "archivalLink": "",
+      "isWebpageUp": false
+    },
+    {
+      "date": "2018-09-02",
+      "statement": "ETH Futures: Bad for Ethereum, Good for Bitcoin, says Tom Lee",
+      "author": "Tom Lee",
+      "source": "Bitcoinist",
+      "link": "https://bitcoinist.com/eth-futures-ethereum-bitcoin-tom-lee/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2018-09-02",
+      "statement": "The Collapse of ETH is Inevitable",
+      "author": "Jeremy Rubin",
+      "source": "Techcrunch",
+      "link": "https://techcrunch.com/2018/09/02/the-collapse-of-eth-is-inevitable/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2018-09-04",
+      "statement": "Ethereum's Demise as a Cryptocurrency is Foreseeable",
+      "author": "Michael K. Spencer",
+      "source": "Medium",
+      "link": "https://web.archive.org/web/20180904171629/https://medium.com/futuresin/ethereums-demise-as-a-cryptocurrency-is-foreseeable-d9240dcc061e",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2018-09-10",
+      "statement": "The Death of Ethereum",
+      "author": "Mujeeb Lawal",
+      "source": "LinkedIn",
+      "link": "https://www.linkedin.com/pulse/death-ethereum-mujeeb-lawal/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2018-12-10",
+      "statement": "Hard Fork Could Spell Doomsday for Ethereum",
+      "author": "Zachary Mashiach",
+      "source": "Crypto.IQ",
+      "link": "https://cryptoiq.co/falling-prices-increasing-regulation-causing-crypto-hedge-funds-to-shut-down/",
+      "archivalLink": "",
+      "isWebpageUp": false
+    },
+    {
+      "date": "2018-12-17",
+      "statement": "The Fall of Ethereum",
+      "author": "Michael K. Spencer",
+      "source": "Medium",
+      "link": "https://web.archive.org/web/20190101091235/https://medium.com/futuresin/the-fall-of-ethereum-15c4b64467d8",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2018-12-25",
+      "statement": "ICOs and Ethereum Are Dead",
+      "author": "Digital Marketplace",
+      "source": "Digital Market Today",
+      "link": "https://digitalmarkettoday.com/4-words-in-2018-icos-and-ethereum-are-dead/",
+      "archivalLink": "",
+      "isWebpageUp": false
+    },
+    {
+      "date": "2019-01-17",
+      "statement": "The Fall of Ethereum",
+      "author": "Editorial Staff",
+      "source": "Traders Magazine",
+      "link": "https://www.tradersmagazine.com/news/the-fall-of-ethereum/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2019-03-28",
+      "statement": "Ethereum Is Losing Its Luster And Its Market Share",
+      "author": "Olga Kharif",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2019-03-28/better-version-of-bitcoin-loses-luster-as-apps-move-elsewhere",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2019-04-03",
+      "statement": "Is Ethereum's market share at risk from EOS and TRON?",
+      "author": "Priyeshu Garg",
+      "source": "CryptoSlate",
+      "link": "https://cryptoslate.com/is-ethereums-market-share-at-risk-from-eos-and-tron/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2019-04-05",
+      "statement": "Ethereum: Running Out of Gas",
+      "author": "Rustam Botashev & Mikhail Butov",
+      "source": "Medium",
+      "link": "https://medium.com/@HASHCIB/ethereum-running-out-of-gas-697b49b07e73",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2019-06-07",
+      "statement": "Ethereum is among crypto's deadwood",
+      "author": "Aaron Brown",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/opinion/articles/2019-06-07/cryptocurrency-winners-are-starting-to-emerge",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2019-07-07",
+      "statement": "The Ethereum Killer Is Already Here",
+      "author": "Greg Thompson",
+      "source": "CCN",
+      "link": "https://web.archive.org/web/20190710155455/https://www.ccn.com/op-ed/ethereum-killer-is-binance/2019/07/07/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2019-08-12",
+      "statement": "Chances of ETH ever getting over $500 again are virtually zero",
+      "author": "Max Keiser",
+      "source": "Twitter",
+      "link": "https://twitter.com/maxkeiser/status/1160897404809424898",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2019-10-21",
+      "statement": "When Will Bitcoin Sidechains Send Ethereum Price To Zero?",
+      "author": "Kyle Torpey",
+      "source": "Forbes",
+      "link": "https://www.forbes.com/sites/ktorpey/2019/10/21/when-will-bitcoin-sidechains-send-ethereum-ripple-and-other-crypto-prices-to-zero/amp/?__twitter_impression=true",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2019-11-27",
+      "statement": "By 2021 you'll have forgotten ethereum was a thing.",
+      "author": "Jeremy Ross",
+      "source": "Twitter",
+      "link": "https://twitter.com/jebus911/status/1199540720496984065?s=09",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2020-02-25",
+      "statement": "It's \"Game Over\" for Ethereum",
+      "author": "Cole Petersen",
+      "source": "NewsBTC",
+      "link": "https://www.newsbtc.com/news/ethereum/its-game-over-for-ethereum-as-violent-selloff-leads-it-below-do-or-die-level/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2020-06-12",
+      "statement": "ETH is a poor store of value & a terrible crypto",
+      "author": "Steven McClurg & Leah Wald",
+      "source": "Medium",
+      "link": "https://medium.com/@ExponentialIM/ether-and-bitcoin-are-not-the-same-e5932b510821",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2020-07-16",
+      "statement": "Death of Fat Protocol Thesis Is Bearish for Ethereum",
+      "author": "Ashwath Balakrishnan",
+      "source": "Cryptobriefing",
+      "link": "https://cryptobriefing.com/death-fat-protocol-thesis-is-bearish-ethereum/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2020-09-07",
+      "statement": "Ethereum is a dead chain limping",
+      "author": "Mohammad Jaber",
+      "source": "Coingeek",
+      "link": "https://coingeek.com/ethereum-is-a-dead-chain-limping/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2020-09-11",
+      "statement": "\"Binance Chain\" launched & it's a drop-in replacement for ETH.",
+      "author": "Riccardo Spagni",
+      "source": "Twitter",
+      "link": "https://twitter.com/fluffypony/status/1304379141903577089",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2021-03-13",
+      "statement": "Rise of Layer 2s Spells End for Ethereum",
+      "author": "Eden Yago",
+      "source": "Coindesk",
+      "link": "https://www.coindesk.com/rise-of-layer-2s-altcoins-like-ethereum",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2021-03-25",
+      "statement": "Death of ETH Party!",
+      "author": "BTC Maxi gang",
+      "source": "Clubhouse",
+      "link": "https://twitter.com/blknoiz06/status/1374820170233962505/photo/1",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2021-05-20",
+      "statement": "Bitcoin and Ethereum Are Dead",
+      "author": "Jared A. Brock",
+      "source": "Medium",
+      "link": "https://medium.com/personal-finance/bitcoin-and-ethereum-are-dead-and-their-honest-investors-know-it-a36ee97df89d",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2021-07-31",
+      "statement": "Death of ETH Party! #2",
+      "author": "BTC Maxi gang",
+      "source": "Clubhouse",
+      "link": "https://twitter.com/bneiluj/status/1415056273935056898",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2021-10-06",
+      "statement": "Ethereum: Death By 1000 Paper Cuts",
+      "author": "TheValueTrend",
+      "source": "Seeking Alpha",
+      "link": "https://seekingalpha.com/article/4458739-ethereum-death-by-1000-paper-cuts",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2021-11-21",
+      "statement": "Yes I have abandoned Ethereum",
+      "author": "Zhu Su",
+      "source": "Twitter",
+      "link": "https://twitter.com/zhusu/status/1462216210116853762",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2021-12-31",
+      "statement": "Why I'm bearish on Ethereum",
+      "author": "Natascha Che",
+      "source": "Tascha Labs Blog",
+      "link": "https://taschalabs.com/why-im-bearish-on-ethereum/",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2022-08-16",
+      "statement": "Ethereum is dead",
+      "author": "TechLead",
+      "source": "Youtube",
+      "link": "https://web.archive.org/web/20240124005629/https://www.youtube.com/watch?v=6NHJc6rfsUc",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2022-08-19",
+      "statement": "Ethereum is already dead",
+      "author": "Ansel Lindner",
+      "source": "Twitter",
+      "link": "https://twitter.com/AnselLindner/status/1560612838313381888",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2022-10-05",
+      "statement": "Now That Ethereum is Dead, What's the Next Big Thing?",
+      "author": "Isaiah McCall",
+      "source": "Medium",
+      "link": "https://medium.com/yardcouch-com/now-that-ethereum-is-dead-whats-the-next-big-thing-9e07f257459a",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2023-09-15",
+      "statement": "Ethereum is dying (Sad)",
+      "author": "Matthew Kratter",
+      "source": "Bitcoin University",
+      "link": "https://www.youtube.com/watch?v=AulxzTP0FV0",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2023-10-19",
+      "statement": "Ethereum is over. Plan accordingly",
+      "author": "Tuur Demeester",
+      "source": "Twitter",
+      "link": "https://twitter.com/TuurDemeester/status/1715103756017131656?t=yOFmL3RdWqHbEYaHzwsASQ&s=19",
+      "archivalLink": "",
+      "isWebpageUp": true
+    },
+ {
     "date": "2023-11-22",
     "statement": "Ethereum will go to zero.",
     "author": "TechLead",
     "source": "Twitter",
-    "link": "https://imgur.com/a/GVouy8F"
+    "link": "https://imgur.com/a/GVouy8F",
+    "archivalLink": "",
+    "isWebpageUp": true
   },
   {
     "date": "2023-12-14",
     "statement": "ETHEREUM IS DEAD",
     "author": "Ben Armstrong",
     "source": "Youtube",
-    "link": "https://www.youtube.com/watch?v=dWbheil11eQ"
+    "link": "https://www.youtube.com/watch?v=dWbheil11eQ",
+    "archivalLink": "",
+    "isWebpageUp": true
   },
   {
     "date": "2023-12-14",
     "statement": "ETH may not even be a listed asset in 10 years",
     "author": "Peter L. Brandt",
     "source": "Twitter",
-    "link": "https://twitter.com/PeterLBrandt/status/1735433545458520178"
+    "link": "https://twitter.com/PeterLBrandt/status/1735433545458520178",
+    "archivalLink": "",
+    "isWebpageUp": true
   },
   {
     "date": "2023-12-19",
     "statement": "Ethereum isn't definitely going to make it",
     "author": "Blockworks",
     "source": "Blockworks Newsletter",
-    "link": "https://pbs.twimg.com/media/GBzVOgWWMAAeH1D?format=png&name=large"
+    "link": "https://pbs.twimg.com/media/GBzVOgWWMAAeH1D?format=png&name=large",
+    "archivalLink": "",
+    "isWebpageUp": true
   },
   {
     "date": "2023-12-20",
     "statement": "Remember ETH?",
     "author": "Peter McCormack",
     "source": "Twitter",
-    "link": "https://twitter.com/PeterMcCormack/status/1737544468272697700"
+    "link": "https://twitter.com/PeterMcCormack/status/1737544468272697700",
+    "archivalLink": "",
+    "isWebpageUp": true
   },
   {
     "date": "2023-12-26",
     "statement": "Ethereum is not undervalued. It's dead technology.",
     "author": "TechLead",
     "source": "Twitter",
-    "link": "https://imgur.com/a/hC3NOY0"
+    "link": "https://imgur.com/a/hC3NOY0",
+    "archivalLink": "",
+    "isWebpageUp": true
   },
   {
     "date": "2024-01-12",
     "statement": "Ethereum will go down as the Myspace of smart contract platforms",
     "author": "R89 Capital",
     "source": "Twitter",
-    "link": "https://twitter.com/R89Capital/status/1745650563759718615"
+    "link": "https://twitter.com/R89Capital/status/1745650563759718615",
+    "archivalLink": "",
+    "isWebpageUp": true
   },
   {
     "date": "2024-02-21",
     "statement": "Avoid ETH at all costs",
     "author": "Fred Krueger",
     "source": "Twitter",
-    "link": "https://twitter.com/dotkrueger/status/1760148208515428599"
+    "link": "https://twitter.com/dotkrueger/status/1760148208515428599",
+    "archivalLink": "",
+    "isWebpageUp": true
   },
   {
     "date": "2024-03-18",
     "statement": "Ethereum is slow expensive garbage & a thing of the past",
     "author": "R89 Capital",
     "source": "Twitter",
-    "link": "https://twitter.com/R89Capital/status/1769731183791779934"
+    "link": "https://twitter.com/R89Capital/status/1769731183791779934",
+    "archivalLink": "",
+    "isWebpageUp": true
   },
   {
     "date": "2024-03-29",
     "statement": "ETH has given up. It's a LARP chain.",
     "author": "Autism Capital",
     "source": "Twitter",
-    "link": "https://twitter.com/AutismCapital/status/1773794312515424731?t=1y3I6bkYNFgIahc0zfrZHw"
+    "link": "https://twitter.com/AutismCapital/status/1773794312515424731?t=1y3I6bkYNFgIahc0zfrZHw",
+    "archivalLink": "",
+    "isWebpageUp": true
   },
   {
     "date": "2024-03-30",
     "statement": "We may witness the end of ETH tonight.",
     "author": "Justin Belcher",
     "source": "Twitter",
-    "link": "https://twitter.com/1914ad/status/1773913248041144357?t=7Prbt1J6nQCIJ6UXw7_kDg"
+    "link": "https://twitter.com/1914ad/status/1773913248041144357?t=7Prbt1J6nQCIJ6UXw7_kDg",
+    "archivalLink": "",
+    "isWebpageUp": true
   },
   {
     "date": "2024-04-13",
     "statement": "ETH story is dying.",
     "author": "Fred Krueger",
     "source": "Twitter",
-    "link": "https://twitter.com/dotkrueger/status/1778950579991240849"
+    "link": "https://twitter.com/dotkrueger/status/1778950579991240849",
+    "archivalLink": "",
+    "isWebpageUp": true
   },
   {
     "date": "2024-05-12",
     "statement": "Ethereum looks like it's going to the grave.",
     "author": "James Van Straten",
     "source": "Twitter",
-    "link": "https://x.com/jvs_btc/status/1789760531655450932?t=m_O9QbvMnBSEt8yccyxz1A&s=09"
+    "link": "https://x.com/jvs_btc/status/1789760531655450932?t=m_O9QbvMnBSEt8yccyxz1A&s=09",
+    "archivalLink": "",
+    "isWebpageUp": true
   },
   {
     "date": "2024-07-28",
     "statement": "Ethereum is going to bleed a slow & painful death.",
     "author": "The Weatherman",
     "source": "Twitter",
-    "link": "https://x.com/Sawcruhteez/status/1817409497998172340"
+    "link": "https://x.com/Sawcruhteez/status/1817409497998172340",
+    "archivalLink": "",
+    "isWebpageUp": true
   },
   {
     "date": "2024-09-03",
     "statement": "ETH is in a death spiral.",
     "author": "Fred Krueger",
     "source": "Twitter",
-    "link": "https://twitter.com/dotkrueger/status/1830827348012450107"
+    "link": "https://twitter.com/dotkrueger/status/1830827348012450107",
+    "archivalLink": "",
+    "isWebpageUp": true
   },
   {
     "date": "2024-09-09",
     "statement": "Ethereum won't survive the current BTC halving cycle.",
     "author": "Mark Harvey",
     "source": "Twitter",
-    "link": "https://twitter.com/thepowerfulHRV/status/1833149462362902989"
+    "link": "https://twitter.com/thepowerfulHRV/status/1833149462362902989",
+    "archivalLink": "",
+    "isWebpageUp": true
   },
   {
     "date": "2024-09-28",
-    "statement": "I’m calling the collapse of Ethereum",
+    "statement": "I'm calling the collapse of Ethereum",
     "author": "Baer",
     "source": "Twitter",
-    "link": "https://twitter.com/BaerEvo_/status/1840117473695137955"
+    "link": "https://twitter.com/BaerEvo_/status/1840117473695137955",
+    "archivalLink": "",
+    "isWebpageUp": true
   }
 ]
