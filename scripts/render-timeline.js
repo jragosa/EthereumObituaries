@@ -21,6 +21,7 @@ function renderTimeline(obituariesData, priceData) {
         yearCounts[entryYear] = (yearCounts[entryYear] || 0) + 1;
     });
 
+
     // Remove existing year sections and entries before appending new ones
     while (timelineContainer.firstChild) {
         timelineContainer.removeChild(timelineContainer.firstChild);
@@ -66,11 +67,20 @@ function renderTimeline(obituariesData, priceData) {
 
         const statement = document.createElement('div');
         statement.className = 'timeline-statement';
+
         const statementLink = document.createElement('a');
         statementLink.href = obituary.link;
         statementLink.target = '_blank';
         statementLink.textContent = obituary.statement;
         statementLink.title = 'View Source';
+        statement.appendChild(statementLink);
+        if (!obituary.isWebpageUp) {
+            const skullEmoji = document.createElement('span');
+            skullEmoji.textContent = '💀 ';
+            skullEmoji.title = "The website died or the author deleted the post before we could archive it.\nEthereum: 1 / Doomsayer: 0.";
+            skullEmoji.className = 'skull-emoji';
+            statement.appendChild(skullEmoji);
+        }
 
         const authorSourceContainer = document.createElement('div');
         authorSourceContainer.className = 'author-source-container';
@@ -95,6 +105,8 @@ function renderTimeline(obituariesData, priceData) {
         entry.appendChild(statement);
         entry.appendChild(authorSourceContainer);
         entry.appendChild(price); // Display the price at the top right corner
+
+        
 
         timelineContainer.appendChild(entry);
     });

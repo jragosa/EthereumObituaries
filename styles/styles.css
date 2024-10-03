@@ -226,6 +226,11 @@ body {
   text-decoration: underline;
 }
 
+.skull-emoji {
+  cursor: help;
+  margin-left: 0px;
+}
+
 .author-source-container {
   margin-top: 5px;
   color: #cccccc;

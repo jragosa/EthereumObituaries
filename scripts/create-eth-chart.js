@@ -10,7 +10,8 @@ function createChart(priceData, obituariesData) {
             statement: d.statement,
             author: d.author,
             source: d.source,
-            link: d.link
+            link: d.link,
+            isWebpageUp: d.isWebpageUp
         };
     });
 

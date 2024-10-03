@@ -27,11 +27,14 @@ We appreciate your interest in contributing to the Ethereum Obituaries project. 
      "author": "Name of the author",
      "source": "Publication or platform name",
      "link": "URL to the original article or post",
+     "archivalLink": "URL to an archived version of the page (e.g., using Wayback Machine or a screenshot hosted on imgur)",
+     "isWebpageUp": true,
    }
 6. Ensure the entry is in the correct chronological order within the JSON file.
 7. Commit your changes and push to your forked repository.
 8. Create a Pull Request (PR) to the main repository.
 
+**Or if you are lazy, ping me on X (@jimmyragosa), so that I can do it for you.**
 
 ## Part 2: Contributing to the Website
 We welcome contributions to improve the Ethereum Obituaries website. Here's how you can contribute:
