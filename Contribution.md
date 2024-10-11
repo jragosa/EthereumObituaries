@@ -4,7 +4,7 @@ We appreciate your interest in contributing to the Ethereum Obituaries project. 
 ## Part 1: How to Add a New Obituary
 
 ### Guidelines for contributing new obituaries
-- **Verify the content:** Ensure that the link you want to add explicitly states that the Ethereum project is failing, ending, over, killed, outclassed, dead, overtly bearish, going to crash, about to be flippened or going to zero either in the post title or in its contents.
+- **Verify the content:** Ensure that the link you want to add explicitly states that the Ethereum project is failing, ending, over, killed, outclassed, dead or that the ETH asset is overtly bearish, going to crash, about to be flippened or going to zero either in the post title or in its contents.
 
 - **Avoid duplicates:** Search previous entries before making a new one to avoid duplicates.
 
