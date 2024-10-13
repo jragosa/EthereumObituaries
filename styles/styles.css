@@ -54,6 +54,34 @@ body {
     color: transparent;
 }
 
+.info-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 11.2px;  /* 70% of 16px */
+  height: 11.2px; /* 70% of 16px */
+  border-radius: 50%;
+  background-color: #FFA500;
+  color: #222222;
+  font-size: 8.4px;  /* 70% of 12px */
+  font-weight: bold;
+  cursor: help;
+  margin-left: 5px;
+  vertical-align: super;
+}
+
+.info-tooltip {
+  display: none;
+  position: absolute;
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  max-width: 300px;
+  z-index: 1000;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
 .highcharts-tooltip {
   z-index: 9999;
 }
