@@ -829,10 +829,19 @@
   },
   {
     "date": "2024-10-12",
-    "statement": "I agree that SOL will probably flip ETH eventually",
+    "statement": "SOL will probably flip ETH eventually",
     "author": "Jon Charbonneau",
     "source": "Twitter",
     "link": "https://x.com/jon_charb/status/1844886078018166786?t=Hs5gCgQWFBBhrLjEFufcXw&s=09",
+    "archivalLink": "",
+    "isWebpageUp": true
+  },
+  {
+    "date": "2024-10-14",
+    "statement": "Ethereum is cooked",
+    "author": "Justin Bons",
+    "source": "Twitter",
+    "link": "https://twitter.com/Justin_Bons/status/1845864589801517116",
     "archivalLink": "",
     "isWebpageUp": true
   }
