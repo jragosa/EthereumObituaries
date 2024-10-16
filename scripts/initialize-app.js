@@ -1,9 +1,11 @@
 async function fetchData() {
-  const priceResponse = await fetch('data/ethereum-prices.json');
-  const priceData = await priceResponse.json();
-
+   
+    const priceResponse = await fetch('data/ethereum-prices.json');
+    const priceData = await priceResponse.json();
+    
   const obituariesResponse = await fetch('data/ethereum-obituaries.json');
   const obituariesData = await obituariesResponse.json(); // Corrected to use obituariesResponse.json()
+
 
   return { priceData, obituariesData };
 }

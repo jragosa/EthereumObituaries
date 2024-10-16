@@ -92,7 +92,7 @@ function renderTimeline(obituariesData, priceData) {
         const source = document.createElement('span');
         source.className = 'timeline-source';
         source.textContent = ` (${obituary.source})`;
-
+        
         const priceEntry = priceData.find(p => p.date === obituary.date);
         const price = document.createElement('div');
         price.className = 'timeline-price';
