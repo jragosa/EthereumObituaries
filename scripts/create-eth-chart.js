@@ -1,5 +1,6 @@
 function createChart(priceData, obituariesData) {
     const priceSeries = priceData.map(d => [Date.parse(d.date), d.price]);
+    const latestPrice = priceSeries[priceSeries.length - 1][1];
 
     // Include all obituaries, even those without corresponding price data
     const obituarySeries = obituariesData.map(d => {
@@ -25,13 +26,9 @@ function createChart(priceData, obituariesData) {
             backgroundColor: '#222222',
             events: {
                 load: function () {
-                    
-                        
-                    
                     this.series[0].graph.attr({
                         filter: 'url(#glow)'
                     });
-                    
 
                     // Add centered watermark text
                     this.watermark = this.renderer.text('EthereumObituaries.com', 0, 0)
@@ -108,7 +105,23 @@ function createChart(priceData, obituariesData) {
             },
             gridLineColor: '#444444',
             minorTickInterval: null,
-            tickInterval: 0.5
+            tickInterval: 0.5,
+            plotLines: [{
+                id: 'latest-price',
+                color: '#FFA500',
+                width: 1,
+                value: latestPrice,
+                dashStyle: 'shortdash',
+                label: {
+                    text: `$${latestPrice.toFixed(2)}`,
+                    align: 'left',
+                    style: {
+                        color: '#FFA500',
+                        fontWeight: 'bold'
+                    }
+                },
+                zIndex: 5
+            }]
         },
         tooltip: {
             useHTML: true,
