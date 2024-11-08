@@ -1,4 +1,31 @@
 function createChart(priceData, obituariesData) {
+    // Add validation right after receiving the data
+    function validatePriceData(data) {
+        // Log the last few entries
+        const lastEntries = data.slice(-5);
+        console.log('Last 5 price entries:', lastEntries);
+
+        // Check for proper date sorting
+        for(let i = 1; i < data.length; i++) {
+            if(new Date(data[i].date) < new Date(data[i-1].date)) {
+                console.warn('Date ordering issue detected:', {
+                    previous: data[i-1],
+                    current: data[i]
+                });
+            }
+        }
+
+        // Log the total number of entries
+        console.log('Total price entries:', data.length);
+
+        return data;
+    }
+    // Validate the data before processing
+    priceData = validatePriceData(priceData);
+
+
+    
+    
     const priceSeries = priceData.map(d => [Date.parse(d.date), d.price]);
     const latestPrice = priceSeries[priceSeries.length - 1][1];
 

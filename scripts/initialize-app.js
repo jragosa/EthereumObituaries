@@ -1,24 +1,39 @@
 async function fetchData() {
-   
-    const priceResponse = await fetch('data/ethereum-prices.json');
-    const priceData = await priceResponse.json();
-    
-  const obituariesResponse = await fetch('data/ethereum-obituaries.json');
-  const obituariesData = await obituariesResponse.json(); // Corrected to use obituariesResponse.json()
+    try {
+        const priceResponse = await fetch('data/ethereum-prices.json');
+        const priceData = await priceResponse.json();
+        console.log('Latest price entry:', priceData[priceData.length - 1]);
 
+        const obituariesResponse = await fetch('data/ethereum-obituaries.json');
+        const obituariesData = await obituariesResponse.json();
 
-  return { priceData, obituariesData };
+        // Validate data
+        if (!Array.isArray(priceData) || priceData.length === 0) {
+            console.error('Invalid or empty price data');
+            return null;
+        }
+
+        return { priceData, obituariesData };
+    } catch (error) {
+        console.error('Error fetching or parsing data:', error);
+        return null;
+    }
 }
 
 async function init() {
-  const { priceData, obituariesData } = await fetchData();
-  createChart(priceData, obituariesData);
-  renderTimeline(obituariesData, priceData);
+    const data = await fetchData();
+    if (!data) {
+        console.error('Failed to initialize data');
+        return;
+    }
+    const { priceData, obituariesData } = data;
+    createChart(priceData, obituariesData);
+    renderTimeline(obituariesData, priceData);
 
-  // Update the number of obituaries in the sentence
-  const obituariesCount = obituariesData.length;
-  const countElement = document.querySelector('.obituaries-count');
-  countElement.textContent = `${obituariesCount} times`;
+    // Update the number of obituaries in the sentence
+    const obituariesCount = obituariesData.length;
+    const countElement = document.querySelector('.obituaries-count');
+    countElement.textContent = `${obituariesCount} times`;
 }
 
 // Info icon tooltip functionality
