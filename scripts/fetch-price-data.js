@@ -67,8 +67,12 @@ async function updatePriceData() {
         const uniqueData = Array.from(new Set(existingData.map(d => d.date)))
             .map(date => existingData.find(d => d.date === date));
 
-        // Save to JSON file
-        fs.writeFileSync(OUTPUT_FILE, JSON.stringify(uniqueData, null, 2));
+        // Ensure consistent formatting
+        const formattedData = JSON.stringify(uniqueData, null, 2)
+            .replace(/    /g, '  ') // Replace any 4-space indentation with 2-space
+            .replace(/\r\n/g, '\n'); // Normalize line endings
+
+        fs.writeFileSync(OUTPUT_FILE, formattedData);
         console.log('Price data updated and saved successfully.');
     } catch (error) {
         console.error('Error updating price data:', error);
