@@ -3,6 +3,8 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [ "main" ]
+  schedule:
+    - cron: '0 1 * * *'  # Runs daily at 1:00 UTC (1 hour after fetch-price-data)
   workflow_dispatch:
 
 permissions:
