@@ -24,10 +24,10 @@ function createChart(priceData, obituariesData) {
     priceData = validatePriceData(priceData);
 
 
-    
-    
+
+
     const priceSeries = priceData.map(d => [Date.parse(d.date), d.price]);
-    const latestPrice = priceSeries[priceSeries.length - 1][1];
+    //const latestPrice = priceSeries[priceSeries.length - 1][1];
 
     // Include all obituaries, even those without corresponding price data
     const obituarySeries = obituariesData.map(d => {
@@ -47,6 +47,18 @@ function createChart(priceData, obituariesData) {
     const earliestPriceDate = priceData.length ? Date.parse(priceData[0].date) : null;
     const earliestObitDate = obituariesData.length ? Math.min(...obituariesData.map(d => Date.parse(d.date))) : null;
     const minDate = earliestObitDate ? Math.min(earliestPriceDate, earliestObitDate) : earliestPriceDate;
+
+    // Fetch latest ETH price from CoinGecko API
+    async function fetchLatestPrice() {
+        try {
+            const response = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd');
+            const data = await response.json();
+            return data.ethereum.usd;
+        } catch (error) {
+            console.error('Error fetching ETH price:', error);
+            return null;
+        }
+    }
 
     Highcharts.chart('ethChart', {
         chart: {
@@ -137,10 +149,10 @@ function createChart(priceData, obituariesData) {
                 id: 'latest-price',
                 color: '#FFA500',
                 width: 1,
-                value: latestPrice,
+                //value: latestPrice, // Replace with API data
                 dashStyle: 'shortdash',
                 label: {
-                    text: `$${latestPrice.toFixed(2)}`,
+                    text: '', // Initialize empty label
                     align: 'left',
                     style: {
                         color: '#FFA500',
@@ -255,5 +267,27 @@ function createChart(priceData, obituariesData) {
                 });
             }
         };
+        // Update the chart plot line with the fetched ETH price
+        fetchLatestPrice().then(latestPrice => {
+            if (latestPrice) {
+                chart.yAxis[0].update({
+                    plotLines: [{
+                        id: 'latest-price',
+                        color:'#FFA500',
+                        width: 1,
+                        dashStyle: 'shortdash',
+                        value: latestPrice,
+                        label: {
+                            text: `$${latestPrice.toFixed(2)}`,
+                            align: 'left',
+                            style: {
+                                color: '#FFA500',
+                                fontWeight: 'bold'
+                            }
+                        }
+                    }]
+                });
+            }
+        });
     });
 }
