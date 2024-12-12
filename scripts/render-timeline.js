@@ -30,6 +30,7 @@ function renderTimeline(obituariesData, priceData) {
     // Adjust the background line height dynamically based on the content
     const backgroundLine = document.createElement('div');
     backgroundLine.className = 'timeline-background-line';
+    backgroundLine.style.height = '100%';
     timelineContainer.appendChild(backgroundLine);
 
     obituariesData.forEach((obituary, index) => {
@@ -92,7 +93,7 @@ function renderTimeline(obituariesData, priceData) {
         const source = document.createElement('span');
         source.className = 'timeline-source';
         source.textContent = ` (${obituary.source})`;
-        
+
         const priceEntry = priceData.find(p => p.date === obituary.date);
         const price = document.createElement('div');
         price.className = 'timeline-price';
@@ -106,11 +107,8 @@ function renderTimeline(obituariesData, priceData) {
         entry.appendChild(authorSourceContainer);
         entry.appendChild(price); // Display the price at the top right corner
 
-        
+
 
         timelineContainer.appendChild(entry);
     });
-
-    // Set the height of the background line after all entries are added
-    backgroundLine.style.height = `${timelineContainer.scrollHeight}px`;
 }

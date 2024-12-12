@@ -17,8 +17,8 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 125%;
-  height: 125%;
+  width: 100%;
+  height: 100%;
   background-image: url('../assets/ETH_Obituaries_logo.png');
   background-size: contain;
   background-repeat: no-repeat;
@@ -82,6 +82,11 @@ body {
   box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
+#body-container{
+  width: 80%;
+  margin: auto;
+}
+
 .highcharts-tooltip {
   z-index: 9999;
 }
@@ -93,7 +98,7 @@ body {
 /* Enhanced Tooltip Styles */
 .highcharts-tooltip-box {
   background-color: #333333;
-  border-radius: 5px; 
+  border-radius: 5px;
   padding: 10px;
   border: 1px solid #444444;
   color: white;
@@ -140,8 +145,8 @@ body {
 /* Background line style */
 .timeline-background-line {
     position: absolute;
-    left: 30px; /* Adjust as needed */
-    width: 8px;
+    left: 0px; /* Adjust as needed */
+    width: 5px;
     background: linear-gradient(to bottom, #FFA500, #FF4500);
     filter: url(#glow);
     border-radius: 4px;
@@ -198,7 +203,7 @@ body {
 /* Timeline styles */
 .timeline {
   margin-top: 10px;
-  padding-left: 50px; /* Adjust padding to match line alignment */
+  padding-left: 10px; /* Adjust padding to match line alignment */
   position: relative;
 }
 
@@ -218,7 +223,7 @@ body {
     margin-top: 40px;
     font-size: 30px;
     position: relative;
-    left: 30px; 
+    left: 30px;
     width: max-content; /* This ensures the year takes only the width it needs */
 }
 
@@ -316,4 +321,15 @@ body {
 .footer-divider {
   margin: 0 16px; /* Increase space around the divider */
   color: #666;
+}
+
+/* Responsiveness for smaller screens */
+@media only screen and (max-width: 600px) {
+  .website-title {
+    font-size: 60px;
+  }
+
+  #body-container{
+    width: 90%;
+  }
 }
