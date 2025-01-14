@@ -111,16 +111,19 @@ function createChart(priceData, obituariesData) {
                 }
             },
             min: minDate,
-            tickInterval: 365 * 24 * 3600 * 1000, // Set tick interval to one year
+            // Set tickInterval to one year in milliseconds
+            tickInterval: 365 * 24 * 3600 * 1000,
             startOnTick: true,
             endOnTick: false,
             tickPositioner: function () {
-                var positions = [],
-                    tick = Math.floor(this.dataMin),
-                    increment = 365 * 24 * 3600 * 1000; // One year in milliseconds
-
-                for (tick; tick <= this.dataMax; tick += increment) {
-                    positions.push(tick);
+                // Create an array of dates for the 1st of January of each year
+                const positions = [];
+                let tick = new Date(this.dataMin);
+                tick.setDate(1);
+                tick.setMonth(0); // January
+                while (tick <= this.dataMax) {
+                    positions.push(tick.getTime());
+                    tick.setFullYear(tick.getFullYear() + 1);
                 }
                 return positions;
             }
