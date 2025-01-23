@@ -50,7 +50,7 @@ cd EthereumObituaries
 
 ## Contact
 
-Created by [@JimmyRagosa](https://twitter.com/JimmyRagosa) (with help from AI as I am not a dev) - feel free to contact me!
+Created by [Jrag](https://twitter.com/Jrag0x) (with help from AI as I am not a dev) - feel free to contact me!
 
 ## Acknowledgements
 
