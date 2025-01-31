@@ -603,15 +603,6 @@
       "isWebpageUp": true
     },
     {
-      "date": "2022-10-05",
-      "statement": "Now That Ethereum is Dead, What's the Next Big Thing?",
-      "author": "Isaiah McCall",
-      "source": "Medium",
-      "link": "https://medium.com/yardcouch-com/now-that-ethereum-is-dead-whats-the-next-big-thing-9e07f257459a",
-      "archivalLink": "https://web.archive.org/web/20221008083032/https://medium.com/yardcouch-com/now-that-ethereum-is-dead-whats-the-next-big-thing-9e07f257459a",
-      "isWebpageUp": true
-    },
-    {
       "date": "2023-09-15",
       "statement": "Ethereum is dying (Sad)",
       "author": "Matthew Kratter",
@@ -621,12 +612,30 @@
       "isWebpageUp": true
     },
     {
+      "date": "2022-10-05",
+      "statement": "Now That Ethereum is Dead, What's the Next Big Thing?",
+      "author": "Isaiah McCall",
+      "source": "Medium",
+      "link": "https://medium.com/yardcouch-com/now-that-ethereum-is-dead-whats-the-next-big-thing-9e07f257459a",
+      "archivalLink": "https://web.archive.org/web/20221008083032/https://medium.com/yardcouch-com/now-that-ethereum-is-dead-whats-the-next-big-thing-9e07f257459a",
+      "isWebpageUp": true
+    },
+    {
       "date": "2023-10-19",
       "statement": "Ethereum is over. Plan accordingly",
       "author": "Tuur Demeester",
       "source": "X",
       "link": "https://twitter.com/TuurDemeester/status/1715103756017131656?t=yOFmL3RdWqHbEYaHzwsASQ&s=19",
       "archivalLink": "https://i.imgur.com/ToYLamD.png",
+      "isWebpageUp": true
+    },
+    {
+      "date": "2023-11-02",
+      "statement": "Ethereum is A Coward Sellout",
+      "author": "0xAnn",
+      "source": "Medium",
+      "link": "https://medium.com/crypto-24-7/ethereum-is-a-coward-sellout-59d1dd40f305",
+      "archivalLink": "https://i.imgur.com/S6mLVu8.png",
       "isWebpageUp": true
     },
  {
@@ -989,6 +998,15 @@
   "archivalLink": "https://i.imgur.com/GKM7Sly.png",
   "isWebpageUp": true
  },
+  {
+    "date": "2024-11-24",
+    "statement": "Ethereum is a failure",
+    "author": "Longjumping-Low3164",
+    "source": "Reddit",
+    "link": "https://old.reddit.com/r/CryptoCurrency/comments/1gyrcew/ethereum_is_a_failure/",
+    "archivalLink": "https://web.archive.org/web/20241124144938/https://www.reddit.com/r/CryptoCurrency/comments/1gyrcew/ethereum_is_a_failure/",
+    "isWebpageUp": true
+  },
  {
   "date": "2024-11-25",
   "statement": "Once ETH is dead",
@@ -997,6 +1015,15 @@
   "link": "https://x.com/MikeMcDonald89/status/1860863805590286830?t=8MGFk0si6oM9rMejYZJJFA&s=19",
   "archivalLink": "https://i.imgur.com/ZY97DvR.png",
   "isWebpageUp": true
+  },
+  {
+    "date": "2024-11-27",
+    "statement": "Ethereum is a mess, & it’s going to get much worse",
+    "author": "Gavin Lucas",
+    "source": "CoinGeek",
+    "link": "https://coingeek.com/ethereum-is-a-mess-and-its-going-to-get-much-worse/",
+    "archivalLink": "https://web.archive.org/web/20241228053722/https://coingeek.com/ethereum-is-a-mess-and-its-going-to-get-much-worse/",
+    "isWebpageUp": true
   },
   {
    "date": "2025-01-11",
@@ -1014,6 +1041,15 @@
     "source": "X",
     "link": "https://x.com/techleadhd/status/1878879873563017451",
     "archivalLink": "https://i.imgur.com/Y1rLODy.png",
+    "isWebpageUp": true
+  },
+  {
+    "date": "2025-01-14",
+    "statement": "ETH looks cooked",
+    "author": "Crypto Tips",
+    "source": "Youtube",
+    "link": "https://www.youtube.com/watch?v=6D4lAbDQDfE",
+    "archivalLink": "https://i.imgur.com/XRgkUfO.png",
     "isWebpageUp": true
     },
 {
