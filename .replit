@@ -6,6 +6,5 @@ run = "npm run start"
 channel = "stable-23_11"
 
 [deployment]
-publicDir = "/"
+publicDir = "./"
 deploymentTarget = "static"
-run = ["sh", "-c", "npm run start"]
