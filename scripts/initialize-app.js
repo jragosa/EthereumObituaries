@@ -2,20 +2,22 @@ async function fetchData() {
     try {
         const timestamp = new Date().getTime();
         const cacheBuster = Math.random().toString(36).substring(7);
-        const priceResponse = await fetch(`data/ethereum-prices.json?t=${timestamp}&n=${cacheBuster}`, {
+        const options = {
+            method: 'GET',
             cache: 'no-store',
             headers: {
-                'Cache-Control': 'no-cache, no-store, must-revalidate',
+                'Cache-Control': 'no-cache, no-store, must-revalidate, max-age=0',
                 'Pragma': 'no-cache',
-                'Expires': '0'
+                'Expires': '-1',
+                'If-None-Match': cacheBuster
             }
-        });
+        };
+
+        const priceResponse = await fetch(`data/ethereum-prices.json?t=${timestamp}&n=${cacheBuster}`, options);
         const priceData = await priceResponse.json();
         console.log('Latest price entry:', priceData[priceData.length - 1]);
 
-        const obituariesResponse = await fetch(`data/ethereum-obituaries.json?t=${timestamp}&n=${cacheBuster}`, {
-            cache: 'no-store'
-        });
+        const obituariesResponse = await fetch(`data/ethereum-obituaries.json?t=${timestamp}&n=${cacheBuster}`, options);
         const obituariesData = await obituariesResponse.json();
 
         // Validate data
@@ -67,3 +69,8 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 init();
+
+// Add reload function to refresh data every minute
+setInterval(() => {
+    init();
+}, 60000);
