@@ -1,10 +1,11 @@
-entrypoint = "index.html"
 hidden = [".config"]
-modules = ["nodejs-20", "web:v2-20230623-0b7a606"]
+modules = ["nodejs-20", "web", "nix"]
+run = "npm run start"
 
 [nix]
-channel = "stable-23_11"
+channel = "stable-24_05"
 
 [deployment]
 publicDir = "/"
 deploymentTarget = "static"
+run = ["sh", "-c", "npm run start"]
