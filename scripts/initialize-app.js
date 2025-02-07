@@ -3,7 +3,12 @@ async function fetchData() {
         const timestamp = new Date().getTime();
         const cacheBuster = Math.random().toString(36).substring(7);
         const priceResponse = await fetch(`data/ethereum-prices.json?t=${timestamp}&n=${cacheBuster}`, {
-            cache: 'no-store'
+            cache: 'no-store',
+            headers: {
+                'Cache-Control': 'no-cache, no-store, must-revalidate',
+                'Pragma': 'no-cache',
+                'Expires': '0'
+            }
         });
         const priceData = await priceResponse.json();
         console.log('Latest price entry:', priceData[priceData.length - 1]);
