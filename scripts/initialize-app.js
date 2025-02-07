@@ -1,11 +1,16 @@
 async function fetchData() {
     try {
         const timestamp = new Date().getTime();
-        const priceResponse = await fetch(`data/ethereum-prices.json?t=${timestamp}`);
+        const cacheBuster = Math.random().toString(36).substring(7);
+        const priceResponse = await fetch(`data/ethereum-prices.json?t=${timestamp}&n=${cacheBuster}`, {
+            cache: 'no-store'
+        });
         const priceData = await priceResponse.json();
         console.log('Latest price entry:', priceData[priceData.length - 1]);
 
-        const obituariesResponse = await fetch(`data/ethereum-obituaries.json?t=${timestamp}`);
+        const obituariesResponse = await fetch(`data/ethereum-obituaries.json?t=${timestamp}&n=${cacheBuster}`, {
+            cache: 'no-store'
+        });
         const obituariesData = await obituariesResponse.json();
 
         // Validate data
