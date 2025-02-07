@@ -1,10 +1,11 @@
 async function fetchData() {
     try {
-        const priceResponse = await fetch('data/ethereum-prices.json');
+        const timestamp = new Date().getTime();
+        const priceResponse = await fetch(`data/ethereum-prices.json?t=${timestamp}`);
         const priceData = await priceResponse.json();
         console.log('Latest price entry:', priceData[priceData.length - 1]);
 
-        const obituariesResponse = await fetch('data/ethereum-obituaries.json');
+        const obituariesResponse = await fetch(`data/ethereum-obituaries.json?t=${timestamp}`);
         const obituariesData = await obituariesResponse.json();
 
         // Validate data
