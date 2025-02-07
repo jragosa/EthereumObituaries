@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node scripts/initialize-app.js"
+    "start": "npx http-server . -p 3000 -a 0.0.0.0"
   },
   "keywords": [],
   "author": "",
